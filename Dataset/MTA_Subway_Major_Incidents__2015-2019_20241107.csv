@@ -1,0 +1,3441 @@
+month,division,line,day_type,category,count
+2015-01-01,A DIVISION,1,1,Signals,1
+2015-01-01,A DIVISION,1,1,Track,1
+2015-01-01,A DIVISION,1,2,Signals,1
+2015-01-01,A DIVISION,2,1,Other,2
+2015-01-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2015-01-01,A DIVISION,2,1,Signals,1
+2015-01-01,A DIVISION,2,1,Track,1
+2015-01-01,A DIVISION,2,2,Other,1
+2015-01-01,A DIVISION,3,1,Signals,1
+2015-01-01,A DIVISION,3,1,Track,2
+2015-01-01,A DIVISION,3,2,Persons on Trackbed/Police/Medical,1
+2015-01-01,A DIVISION,3,2,Signals,1
+2015-01-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2015-01-01,A DIVISION,4,1,Signals,2
+2015-01-01,A DIVISION,4,1,Subway Car,1
+2015-01-01,A DIVISION,4,1,Track,1
+2015-01-01,A DIVISION,5,1,Other,1
+2015-01-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,5
+2015-01-01,A DIVISION,5,1,Signals,1
+2015-01-01,A DIVISION,5,1,Subway Car,1
+2015-01-01,A DIVISION,5,1,Track,1
+2015-01-01,A DIVISION,5,2,Persons on Trackbed/Police/Medical,1
+2015-01-01,A DIVISION,6,1,Other,1
+2015-01-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,4
+2015-01-01,A DIVISION,6,1,Subway Car,1
+2015-01-01,A DIVISION,6,1,Track,1
+2015-01-01,A DIVISION,6,2,Persons on Trackbed/Police/Medical,1
+2015-01-01,A DIVISION,7,1,Signals,3
+2015-01-01,A DIVISION,7,2,Signals,1
+2015-01-01,B DIVISION,A,1,Other,1
+2015-01-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2015-01-01,B DIVISION,A,1,Signals,2
+2015-01-01,B DIVISION,A,1,Track,2
+2015-01-01,B DIVISION,B,1,Track,2
+2015-01-01,B DIVISION,C,1,Other,1
+2015-01-01,B DIVISION,C,1,Persons on Trackbed/Police/Medical,1
+2015-01-01,B DIVISION,C,1,Signals,1
+2015-01-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2015-01-01,B DIVISION,D,2,Signals,1
+2015-01-01,B DIVISION,E,1,Signals,2
+2015-01-01,B DIVISION,E,1,Track,2
+2015-01-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2015-01-01,B DIVISION,F,1,Signals,3
+2015-01-01,B DIVISION,F,1,Track,1
+2015-01-01,B DIVISION,JZ,1,Track,1
+2015-01-01,B DIVISION,M,1,Other,2
+2015-01-01,B DIVISION,M,1,Signals,2
+2015-01-01,B DIVISION,M,1,Subway Car,1
+2015-01-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2015-01-01,B DIVISION,N,1,Signals,1
+2015-01-01,B DIVISION,N,1,Track,3
+2015-01-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,1
+2015-01-01,B DIVISION,Q,1,Stations and Structure,1
+2015-01-01,B DIVISION,Q,1,Track,2
+2015-01-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,2
+2015-01-01,B DIVISION,R,1,Subway Car,1
+2015-01-01,B DIVISION,R,2,Other,2
+2015-01-01,Systemwide,Systemwide,1,Other,8
+2015-01-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,20
+2015-01-01,Systemwide,Systemwide,1,Signals,20
+2015-01-01,Systemwide,Systemwide,1,Stations and Structure,1
+2015-01-01,Systemwide,Systemwide,1,Subway Car,5
+2015-01-01,Systemwide,Systemwide,1,Track,20
+2015-01-01,Systemwide,Systemwide,2,Other,3
+2015-01-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,3
+2015-01-01,Systemwide,Systemwide,2,Signals,5
+2015-02-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2015-02-01,A DIVISION,1,1,Signals,2
+2015-02-01,A DIVISION,1,1,Track,1
+2015-02-01,A DIVISION,2,1,Other,2
+2015-02-01,A DIVISION,2,1,Signals,2
+2015-02-01,A DIVISION,2,1,Track,3
+2015-02-01,A DIVISION,2,2,Other,1
+2015-02-01,A DIVISION,3,1,Other,1
+2015-02-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,2
+2015-02-01,A DIVISION,3,1,Signals,1
+2015-02-01,A DIVISION,3,1,Track,2
+2015-02-01,A DIVISION,4,1,Other,2
+2015-02-01,A DIVISION,4,1,Signals,1
+2015-02-01,A DIVISION,4,2,Signals,1
+2015-02-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2015-02-01,A DIVISION,5,1,Signals,3
+2015-02-01,A DIVISION,6,1,Other,4
+2015-02-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,2
+2015-02-01,A DIVISION,6,2,Other,1
+2015-02-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,1
+2015-02-01,A DIVISION,7,1,Signals,3
+2015-02-01,A DIVISION,7,1,Track,2
+2015-02-01,B DIVISION,A,1,Other,3
+2015-02-01,B DIVISION,A,1,Signals,1
+2015-02-01,B DIVISION,A,2,Track,1
+2015-02-01,B DIVISION,B,1,Stations and Structure,1
+2015-02-01,B DIVISION,C,1,Persons on Trackbed/Police/Medical,1
+2015-02-01,B DIVISION,C,1,Signals,1
+2015-02-01,B DIVISION,D,1,Signals,1
+2015-02-01,B DIVISION,D,1,Subway Car,1
+2015-02-01,B DIVISION,E,1,Signals,1
+2015-02-01,B DIVISION,E,1,Stations and Structure,1
+2015-02-01,B DIVISION,E,1,Track,3
+2015-02-01,B DIVISION,E,2,Other,1
+2015-02-01,B DIVISION,F,1,Signals,1
+2015-02-01,B DIVISION,F,1,Track,2
+2015-02-01,B DIVISION,G,1,Signals,1
+2015-02-01,B DIVISION,JZ,1,Signals,1
+2015-02-01,B DIVISION,L,1,Stations and Structure,1
+2015-02-01,B DIVISION,L,1,Subway Car,1
+2015-02-01,B DIVISION,L,1,Track,2
+2015-02-01,B DIVISION,M,1,Other,1
+2015-02-01,B DIVISION,M,1,Signals,1
+2015-02-01,B DIVISION,M,1,Track,1
+2015-02-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2015-02-01,B DIVISION,N,1,Signals,3
+2015-02-01,B DIVISION,N,1,Track,1
+2015-02-01,B DIVISION,N,2,Other,1
+2015-02-01,B DIVISION,Q,1,Other,1
+2015-02-01,B DIVISION,Q,1,Track,1
+2015-02-01,B DIVISION,R,1,Other,4
+2015-02-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,1
+2015-02-01,B DIVISION,R,1,Track,3
+2015-02-01,B DIVISION,R,2,Other,1
+2015-02-01,Systemwide,Systemwide,1,Other,18
+2015-02-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,10
+2015-02-01,Systemwide,Systemwide,1,Signals,23
+2015-02-01,Systemwide,Systemwide,1,Stations and Structure,3
+2015-02-01,Systemwide,Systemwide,1,Subway Car,2
+2015-02-01,Systemwide,Systemwide,1,Track,21
+2015-02-01,Systemwide,Systemwide,2,Other,6
+2015-02-01,Systemwide,Systemwide,2,Signals,1
+2015-02-01,Systemwide,Systemwide,2,Track,1
+2015-03-01,A DIVISION,1,1,Other,2
+2015-03-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2015-03-01,A DIVISION,2,1,Signals,3
+2015-03-01,A DIVISION,2,1,Track,1
+2015-03-01,A DIVISION,2,2,Track,1
+2015-03-01,A DIVISION,3,1,Other,1
+2015-03-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,3
+2015-03-01,A DIVISION,3,1,Signals,2
+2015-03-01,A DIVISION,3,1,Track,3
+2015-03-01,A DIVISION,4,1,Other,1
+2015-03-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,3
+2015-03-01,A DIVISION,4,1,Track,1
+2015-03-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,3
+2015-03-01,A DIVISION,5,1,Track,2
+2015-03-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,2
+2015-03-01,A DIVISION,6,1,Signals,4
+2015-03-01,A DIVISION,6,1,Track,1
+2015-03-01,A DIVISION,7,1,Track,6
+2015-03-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2015-03-01,B DIVISION,A,1,Signals,1
+2015-03-01,B DIVISION,B,1,Track,1
+2015-03-01,B DIVISION,C,1,Persons on Trackbed/Police/Medical,2
+2015-03-01,B DIVISION,C,1,Signals,1
+2015-03-01,B DIVISION,C,1,Track,1
+2015-03-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2015-03-01,B DIVISION,D,1,Track,2
+2015-03-01,B DIVISION,D,2,Signals,1
+2015-03-01,B DIVISION,E,1,Signals,2
+2015-03-01,B DIVISION,E,1,Subway Car,1
+2015-03-01,B DIVISION,E,1,Track,2
+2015-03-01,B DIVISION,F,1,Signals,3
+2015-03-01,B DIVISION,F,1,Subway Car,1
+2015-03-01,B DIVISION,F,1,Track,1
+2015-03-01,B DIVISION,G,1,Track,1
+2015-03-01,B DIVISION,L,1,Track,2
+2015-03-01,B DIVISION,L,2,Signals,1
+2015-03-01,B DIVISION,L,2,Track,1
+2015-03-01,B DIVISION,M,1,Track,1
+2015-03-01,B DIVISION,N,1,Other,1
+2015-03-01,B DIVISION,N,1,Track,2
+2015-03-01,B DIVISION,Q,1,Track,1
+2015-03-01,B DIVISION,R,1,Other,1
+2015-03-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,2
+2015-03-01,B DIVISION,R,1,Subway Car,1
+2015-03-01,B DIVISION,R,1,Track,3
+2015-03-01,Systemwide,Systemwide,1,Other,6
+2015-03-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,18
+2015-03-01,Systemwide,Systemwide,1,Signals,16
+2015-03-01,Systemwide,Systemwide,1,Subway Car,3
+2015-03-01,Systemwide,Systemwide,1,Track,31
+2015-03-01,Systemwide,Systemwide,2,Signals,2
+2015-03-01,Systemwide,Systemwide,2,Track,2
+2015-04-01,A DIVISION,1,1,Other,1
+2015-04-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2015-04-01,A DIVISION,1,1,Signals,1
+2015-04-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,2
+2015-04-01,A DIVISION,2,1,Signals,1
+2015-04-01,A DIVISION,2,1,Track,2
+2015-04-01,A DIVISION,2,2,Track,1
+2015-04-01,A DIVISION,3,1,Other,1
+2015-04-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,1
+2015-04-01,A DIVISION,3,1,Track,1
+2015-04-01,A DIVISION,4,1,Signals,1
+2015-04-01,A DIVISION,4,1,Track,2
+2015-04-01,A DIVISION,5,1,Other,1
+2015-04-01,A DIVISION,5,1,Signals,2
+2015-04-01,A DIVISION,5,1,Track,1
+2015-04-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,1
+2015-04-01,A DIVISION,6,1,Signals,1
+2015-04-01,A DIVISION,6,1,Subway Car,1
+2015-04-01,A DIVISION,6,1,Track,3
+2015-04-01,A DIVISION,6,2,Subway Car,1
+2015-04-01,A DIVISION,6,2,Track,1
+2015-04-01,A DIVISION,7,1,Signals,1
+2015-04-01,A DIVISION,7,1,Stations and Structure,1
+2015-04-01,A DIVISION,7,1,Subway Car,1
+2015-04-01,A DIVISION,7,1,Track,1
+2015-04-01,B DIVISION,B,1,Persons on Trackbed/Police/Medical,1
+2015-04-01,B DIVISION,B,1,Signals,1
+2015-04-01,B DIVISION,C,1,Other,1
+2015-04-01,B DIVISION,D,1,Track,1
+2015-04-01,B DIVISION,E,1,Signals,2
+2015-04-01,B DIVISION,E,1,Track,1
+2015-04-01,B DIVISION,E,2,Persons on Trackbed/Police/Medical,1
+2015-04-01,B DIVISION,F,1,Signals,2
+2015-04-01,B DIVISION,F,1,Subway Car,1
+2015-04-01,B DIVISION,G,1,Track,1
+2015-04-01,B DIVISION,JZ,1,Track,1
+2015-04-01,B DIVISION,L,1,Track,1
+2015-04-01,B DIVISION,L,2,Persons on Trackbed/Police/Medical,1
+2015-04-01,B DIVISION,M,1,Signals,1
+2015-04-01,B DIVISION,M,1,Track,4
+2015-04-01,B DIVISION,N,1,Other,1
+2015-04-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2015-04-01,B DIVISION,N,1,Track,2
+2015-04-01,B DIVISION,Q,1,Signals,1
+2015-04-01,B DIVISION,Q,1,Track,1
+2015-04-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,1
+2015-04-01,B DIVISION,R,1,Track,1
+2015-04-01,Systemwide,Systemwide,1,Other,5
+2015-04-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,8
+2015-04-01,Systemwide,Systemwide,1,Signals,14
+2015-04-01,Systemwide,Systemwide,1,Stations and Structure,1
+2015-04-01,Systemwide,Systemwide,1,Subway Car,3
+2015-04-01,Systemwide,Systemwide,1,Track,23
+2015-04-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,2
+2015-04-01,Systemwide,Systemwide,2,Subway Car,1
+2015-04-01,Systemwide,Systemwide,2,Track,2
+2015-05-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2015-05-01,A DIVISION,1,1,Signals,1
+2015-05-01,A DIVISION,1,1,Track,1
+2015-05-01,A DIVISION,1,2,Signals,1
+2015-05-01,A DIVISION,1,2,Track,1
+2015-05-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2015-05-01,A DIVISION,2,1,Track,4
+2015-05-01,A DIVISION,2,2,Track,1
+2015-05-01,A DIVISION,3,1,Other,2
+2015-05-01,A DIVISION,4,1,Other,2
+2015-05-01,A DIVISION,4,1,Signals,1
+2015-05-01,A DIVISION,4,1,Stations and Structure,1
+2015-05-01,A DIVISION,4,2,Stations and Structure,1
+2015-05-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2015-05-01,A DIVISION,5,1,Signals,3
+2015-05-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,1
+2015-05-01,A DIVISION,6,1,Subway Car,2
+2015-05-01,A DIVISION,6,1,Track,3
+2015-05-01,A DIVISION,7,1,Other,1
+2015-05-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,1
+2015-05-01,A DIVISION,S 42nd,1,Track,1
+2015-05-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2015-05-01,B DIVISION,C,1,Track,1
+2015-05-01,B DIVISION,D,1,Signals,2
+2015-05-01,B DIVISION,E,1,Signals,2
+2015-05-01,B DIVISION,E,1,Track,1
+2015-05-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2015-05-01,B DIVISION,F,1,Signals,1
+2015-05-01,B DIVISION,F,1,Stations and Structure,1
+2015-05-01,B DIVISION,F,1,Track,3
+2015-05-01,B DIVISION,F,2,Signals,1
+2015-05-01,B DIVISION,L,1,Track,1
+2015-05-01,B DIVISION,L,2,Persons on Trackbed/Police/Medical,1
+2015-05-01,B DIVISION,M,1,Persons on Trackbed/Police/Medical,1
+2015-05-01,B DIVISION,M,1,Signals,1
+2015-05-01,B DIVISION,M,1,Stations and Structure,1
+2015-05-01,B DIVISION,N,1,Other,1
+2015-05-01,B DIVISION,N,1,Signals,2
+2015-05-01,B DIVISION,N,1,Track,2
+2015-05-01,B DIVISION,Q,1,Other,2
+2015-05-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,1
+2015-05-01,B DIVISION,Q,1,Signals,1
+2015-05-01,B DIVISION,Q,1,Track,2
+2015-05-01,B DIVISION,R,1,Signals,6
+2015-05-01,B DIVISION,R,1,Track,2
+2015-05-01,B DIVISION,R,2,Persons on Trackbed/Police/Medical,1
+2015-05-01,Systemwide,Systemwide,1,Other,8
+2015-05-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,9
+2015-05-01,Systemwide,Systemwide,1,Signals,20
+2015-05-01,Systemwide,Systemwide,1,Stations and Structure,3
+2015-05-01,Systemwide,Systemwide,1,Subway Car,2
+2015-05-01,Systemwide,Systemwide,1,Track,21
+2015-05-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,2
+2015-05-01,Systemwide,Systemwide,2,Signals,2
+2015-05-01,Systemwide,Systemwide,2,Stations and Structure,1
+2015-05-01,Systemwide,Systemwide,2,Track,2
+2015-06-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2015-06-01,A DIVISION,1,1,Signals,1
+2015-06-01,A DIVISION,1,1,Track,1
+2015-06-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,3
+2015-06-01,A DIVISION,2,1,Signals,1
+2015-06-01,A DIVISION,2,1,Subway Car,1
+2015-06-01,A DIVISION,2,1,Track,4
+2015-06-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,2
+2015-06-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,4
+2015-06-01,A DIVISION,4,1,Signals,3
+2015-06-01,A DIVISION,5,1,Other,1
+2015-06-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2015-06-01,A DIVISION,5,1,Signals,1
+2015-06-01,A DIVISION,5,1,Track,1
+2015-06-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,3
+2015-06-01,A DIVISION,6,1,Signals,1
+2015-06-01,A DIVISION,6,1,Track,2
+2015-06-01,A DIVISION,6,2,Persons on Trackbed/Police/Medical,1
+2015-06-01,A DIVISION,7,1,Stations and Structure,1
+2015-06-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,2
+2015-06-01,B DIVISION,A,1,Track,1
+2015-06-01,B DIVISION,C,1,Signals,1
+2015-06-01,B DIVISION,C,1,Track,2
+2015-06-01,B DIVISION,D,2,Persons on Trackbed/Police/Medical,1
+2015-06-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,2
+2015-06-01,B DIVISION,E,1,Signals,1
+2015-06-01,B DIVISION,E,1,Track,1
+2015-06-01,B DIVISION,F,1,Stations and Structure,1
+2015-06-01,B DIVISION,JZ,1,Other,1
+2015-06-01,B DIVISION,JZ,1,Signals,1
+2015-06-01,B DIVISION,L,1,Persons on Trackbed/Police/Medical,1
+2015-06-01,B DIVISION,M,1,Persons on Trackbed/Police/Medical,3
+2015-06-01,B DIVISION,M,1,Stations and Structure,1
+2015-06-01,B DIVISION,M,1,Track,1
+2015-06-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2015-06-01,B DIVISION,N,1,Signals,2
+2015-06-01,B DIVISION,N,1,Track,1
+2015-06-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,1
+2015-06-01,B DIVISION,Q,1,Signals,1
+2015-06-01,B DIVISION,R,1,Signals,3
+2015-06-01,B DIVISION,R,1,Stations and Structure,1
+2015-06-01,B DIVISION,R,1,Track,1
+2015-06-01,Systemwide,Systemwide,1,Other,2
+2015-06-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,24
+2015-06-01,Systemwide,Systemwide,1,Signals,16
+2015-06-01,Systemwide,Systemwide,1,Stations and Structure,4
+2015-06-01,Systemwide,Systemwide,1,Subway Car,1
+2015-06-01,Systemwide,Systemwide,1,Track,15
+2015-06-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,2
+2015-07-01,A DIVISION,1,1,Other,1
+2015-07-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,3
+2015-07-01,A DIVISION,1,1,Signals,1
+2015-07-01,A DIVISION,1,1,Track,2
+2015-07-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,2
+2015-07-01,A DIVISION,2,1,Signals,2
+2015-07-01,A DIVISION,2,1,Track,2
+2015-07-01,A DIVISION,2,2,Track,1
+2015-07-01,A DIVISION,3,1,Signals,1
+2015-07-01,A DIVISION,3,1,Track,3
+2015-07-01,A DIVISION,3,2,Persons on Trackbed/Police/Medical,1
+2015-07-01,A DIVISION,4,1,Other,1
+2015-07-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2015-07-01,A DIVISION,4,1,Signals,1
+2015-07-01,A DIVISION,4,1,Track,1
+2015-07-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2015-07-01,A DIVISION,5,1,Signals,2
+2015-07-01,A DIVISION,5,1,Track,1
+2015-07-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,4
+2015-07-01,A DIVISION,6,1,Signals,4
+2015-07-01,A DIVISION,6,1,Subway Car,3
+2015-07-01,A DIVISION,7,1,Signals,1
+2015-07-01,A DIVISION,7,1,Subway Car,1
+2015-07-01,A DIVISION,7,2,Persons on Trackbed/Police/Medical,1
+2015-07-01,B DIVISION,A,1,Other,2
+2015-07-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2015-07-01,B DIVISION,A,1,Signals,1
+2015-07-01,B DIVISION,A,1,Track,3
+2015-07-01,B DIVISION,C,1,Signals,1
+2015-07-01,B DIVISION,C,1,Stations and Structure,1
+2015-07-01,B DIVISION,C,2,Signals,1
+2015-07-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2015-07-01,B DIVISION,D,1,Track,1
+2015-07-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,3
+2015-07-01,B DIVISION,E,1,Track,3
+2015-07-01,B DIVISION,F,1,Other,2
+2015-07-01,B DIVISION,F,1,Signals,4
+2015-07-01,B DIVISION,F,1,Subway Car,1
+2015-07-01,B DIVISION,F,1,Track,2
+2015-07-01,B DIVISION,JZ,1,Persons on Trackbed/Police/Medical,1
+2015-07-01,B DIVISION,L,1,Signals,2
+2015-07-01,B DIVISION,L,1,Track,1
+2015-07-01,B DIVISION,L,2,Signals,1
+2015-07-01,B DIVISION,M,1,Signals,1
+2015-07-01,B DIVISION,M,1,Track,1
+2015-07-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2015-07-01,B DIVISION,N,1,Signals,3
+2015-07-01,B DIVISION,N,1,Track,1
+2015-07-01,B DIVISION,N,2,Signals,1
+2015-07-01,B DIVISION,N,2,Track,1
+2015-07-01,B DIVISION,Q,1,Signals,2
+2015-07-01,B DIVISION,Q,1,Track,2
+2015-07-01,B DIVISION,R,1,Track,1
+2015-07-01,Systemwide,Systemwide,1,Other,6
+2015-07-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,19
+2015-07-01,Systemwide,Systemwide,1,Signals,26
+2015-07-01,Systemwide,Systemwide,1,Stations and Structure,1
+2015-07-01,Systemwide,Systemwide,1,Subway Car,5
+2015-07-01,Systemwide,Systemwide,1,Track,24
+2015-07-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,2
+2015-07-01,Systemwide,Systemwide,2,Signals,3
+2015-07-01,Systemwide,Systemwide,2,Track,2
+2015-08-01,A DIVISION,1,1,Signals,1
+2015-08-01,A DIVISION,1,1,Stations and Structure,2
+2015-08-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2015-08-01,A DIVISION,2,1,Signals,2
+2015-08-01,A DIVISION,2,1,Track,2
+2015-08-01,A DIVISION,2,2,Signals,1
+2015-08-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,1
+2015-08-01,A DIVISION,3,1,Track,1
+2015-08-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2015-08-01,A DIVISION,4,1,Signals,2
+2015-08-01,A DIVISION,4,1,Subway Car,1
+2015-08-01,A DIVISION,5,1,Other,1
+2015-08-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2015-08-01,A DIVISION,5,1,Track,1
+2015-08-01,A DIVISION,6,1,Other,1
+2015-08-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,3
+2015-08-01,A DIVISION,6,1,Signals,1
+2015-08-01,A DIVISION,6,1,Subway Car,1
+2015-08-01,A DIVISION,6,2,Signals,1
+2015-08-01,B DIVISION,A,1,Track,1
+2015-08-01,B DIVISION,B,1,Signals,1
+2015-08-01,B DIVISION,C,1,Signals,1
+2015-08-01,B DIVISION,C,2,Persons on Trackbed/Police/Medical,1
+2015-08-01,B DIVISION,D,1,Signals,2
+2015-08-01,B DIVISION,D,1,Track,1
+2015-08-01,B DIVISION,D,2,Persons on Trackbed/Police/Medical,1
+2015-08-01,B DIVISION,E,1,Signals,1
+2015-08-01,B DIVISION,E,1,Subway Car,1
+2015-08-01,B DIVISION,E,2,Signals,1
+2015-08-01,B DIVISION,F,1,Other,1
+2015-08-01,B DIVISION,F,1,Signals,4
+2015-08-01,B DIVISION,F,1,Stations and Structure,1
+2015-08-01,B DIVISION,F,1,Track,2
+2015-08-01,B DIVISION,G,1,Persons on Trackbed/Police/Medical,2
+2015-08-01,B DIVISION,JZ,1,Signals,1
+2015-08-01,B DIVISION,L,1,Signals,1
+2015-08-01,B DIVISION,L,2,Stations and Structure,1
+2015-08-01,B DIVISION,M,1,Persons on Trackbed/Police/Medical,1
+2015-08-01,B DIVISION,M,1,Signals,3
+2015-08-01,B DIVISION,M,1,Track,3
+2015-08-01,B DIVISION,N,1,Other,1
+2015-08-01,B DIVISION,N,1,Signals,1
+2015-08-01,B DIVISION,N,1,Stations and Structure,1
+2015-08-01,B DIVISION,N,1,Track,1
+2015-08-01,B DIVISION,Q,1,Signals,1
+2015-08-01,B DIVISION,R,1,Other,1
+2015-08-01,B DIVISION,R,1,Signals,2
+2015-08-01,B DIVISION,R,1,Subway Car,1
+2015-08-01,B DIVISION,R,2,Signals,1
+2015-08-01,B DIVISION,S Rock,2,Other,1
+2015-08-01,Systemwide,Systemwide,1,Other,5
+2015-08-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,11
+2015-08-01,Systemwide,Systemwide,1,Signals,24
+2015-08-01,Systemwide,Systemwide,1,Stations and Structure,4
+2015-08-01,Systemwide,Systemwide,1,Subway Car,4
+2015-08-01,Systemwide,Systemwide,1,Track,12
+2015-08-01,Systemwide,Systemwide,2,Other,1
+2015-08-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,2
+2015-08-01,Systemwide,Systemwide,2,Signals,4
+2015-08-01,Systemwide,Systemwide,2,Stations and Structure,1
+2015-09-01,A DIVISION,1,1,Stations and Structure,1
+2015-09-01,A DIVISION,2,1,Signals,2
+2015-09-01,A DIVISION,2,1,Subway Car,1
+2015-09-01,A DIVISION,2,1,Track,2
+2015-09-01,A DIVISION,2,2,Signals,1
+2015-09-01,A DIVISION,3,1,Track,1
+2015-09-01,A DIVISION,3,2,Other,1
+2015-09-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2015-09-01,A DIVISION,4,1,Signals,1
+2015-09-01,A DIVISION,4,1,Subway Car,2
+2015-09-01,A DIVISION,4,1,Track,1
+2015-09-01,A DIVISION,4,2,Other,1
+2015-09-01,A DIVISION,4,2,Persons on Trackbed/Police/Medical,1
+2015-09-01,A DIVISION,5,1,Signals,3
+2015-09-01,A DIVISION,5,1,Track,3
+2015-09-01,A DIVISION,6,1,Signals,2
+2015-09-01,A DIVISION,6,2,Signals,1
+2015-09-01,A DIVISION,7,1,Subway Car,1
+2015-09-01,A DIVISION,7,1,Track,2
+2015-09-01,B DIVISION,A,1,Other,1
+2015-09-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2015-09-01,B DIVISION,A,1,Track,3
+2015-09-01,B DIVISION,A,2,Signals,1
+2015-09-01,B DIVISION,B,1,Persons on Trackbed/Police/Medical,1
+2015-09-01,B DIVISION,B,1,Signals,1
+2015-09-01,B DIVISION,B,1,Track,1
+2015-09-01,B DIVISION,C,1,Signals,1
+2015-09-01,B DIVISION,C,1,Track,1
+2015-09-01,B DIVISION,D,1,Signals,1
+2015-09-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,1
+2015-09-01,B DIVISION,E,1,Signals,4
+2015-09-01,B DIVISION,E,1,Track,3
+2015-09-01,B DIVISION,E,2,Track,1
+2015-09-01,B DIVISION,F,1,Signals,6
+2015-09-01,B DIVISION,G,1,Other,1
+2015-09-01,B DIVISION,L,2,Stations and Structure,1
+2015-09-01,B DIVISION,L,2,Track,1
+2015-09-01,B DIVISION,M,1,Other,1
+2015-09-01,B DIVISION,M,1,Signals,1
+2015-09-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2015-09-01,B DIVISION,N,1,Subway Car,1
+2015-09-01,B DIVISION,Q,1,Signals,2
+2015-09-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,2
+2015-09-01,B DIVISION,R,1,Subway Car,1
+2015-09-01,Systemwide,Systemwide,1,Other,3
+2015-09-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,8
+2015-09-01,Systemwide,Systemwide,1,Signals,24
+2015-09-01,Systemwide,Systemwide,1,Stations and Structure,1
+2015-09-01,Systemwide,Systemwide,1,Subway Car,6
+2015-09-01,Systemwide,Systemwide,1,Track,17
+2015-09-01,Systemwide,Systemwide,2,Other,2
+2015-09-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2015-09-01,Systemwide,Systemwide,2,Signals,3
+2015-09-01,Systemwide,Systemwide,2,Stations and Structure,1
+2015-09-01,Systemwide,Systemwide,2,Track,2
+2015-10-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2015-10-01,A DIVISION,1,1,Signals,1
+2015-10-01,A DIVISION,1,1,Track,1
+2015-10-01,A DIVISION,2,1,Other,1
+2015-10-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,4
+2015-10-01,A DIVISION,2,1,Stations and Structure,1
+2015-10-01,A DIVISION,2,2,Track,1
+2015-10-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2015-10-01,A DIVISION,4,1,Signals,1
+2015-10-01,A DIVISION,4,1,Track,1
+2015-10-01,A DIVISION,4,2,Persons on Trackbed/Police/Medical,1
+2015-10-01,A DIVISION,5,1,Other,2
+2015-10-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,3
+2015-10-01,A DIVISION,5,1,Signals,3
+2015-10-01,A DIVISION,5,2,Signals,1
+2015-10-01,A DIVISION,5,2,Track,1
+2015-10-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,3
+2015-10-01,A DIVISION,6,1,Signals,5
+2015-10-01,A DIVISION,6,1,Track,1
+2015-10-01,A DIVISION,6,2,Persons on Trackbed/Police/Medical,1
+2015-10-01,A DIVISION,7,1,Signals,2
+2015-10-01,A DIVISION,7,2,Track,1
+2015-10-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,2
+2015-10-01,B DIVISION,A,1,Signals,1
+2015-10-01,B DIVISION,A,1,Track,2
+2015-10-01,B DIVISION,A,2,Track,1
+2015-10-01,B DIVISION,C,1,Track,1
+2015-10-01,B DIVISION,C,2,Track,2
+2015-10-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2015-10-01,B DIVISION,D,1,Signals,1
+2015-10-01,B DIVISION,D,1,Track,2
+2015-10-01,B DIVISION,D,2,Track,1
+2015-10-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,1
+2015-10-01,B DIVISION,E,1,Signals,4
+2015-10-01,B DIVISION,E,1,Subway Car,2
+2015-10-01,B DIVISION,E,1,Track,3
+2015-10-01,B DIVISION,E,2,Track,1
+2015-10-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,2
+2015-10-01,B DIVISION,F,1,Signals,2
+2015-10-01,B DIVISION,F,1,Track,2
+2015-10-01,B DIVISION,G,1,Signals,1
+2015-10-01,B DIVISION,L,1,Persons on Trackbed/Police/Medical,1
+2015-10-01,B DIVISION,L,1,Track,1
+2015-10-01,B DIVISION,L,2,Other,1
+2015-10-01,B DIVISION,M,1,Other,1
+2015-10-01,B DIVISION,M,1,Signals,1
+2015-10-01,B DIVISION,M,1,Track,1
+2015-10-01,B DIVISION,N,1,Signals,1
+2015-10-01,B DIVISION,Q,1,Track,1
+2015-10-01,B DIVISION,R,1,Signals,1
+2015-10-01,Systemwide,Systemwide,1,Other,4
+2015-10-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,20
+2015-10-01,Systemwide,Systemwide,1,Signals,24
+2015-10-01,Systemwide,Systemwide,1,Stations and Structure,1
+2015-10-01,Systemwide,Systemwide,1,Subway Car,2
+2015-10-01,Systemwide,Systemwide,1,Track,16
+2015-10-01,Systemwide,Systemwide,2,Other,1
+2015-10-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,3
+2015-10-01,Systemwide,Systemwide,2,Signals,1
+2015-10-01,Systemwide,Systemwide,2,Track,8
+2015-11-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2015-11-01,A DIVISION,1,1,Signals,1
+2015-11-01,A DIVISION,1,2,Signals,1
+2015-11-01,A DIVISION,2,1,Track,1
+2015-11-01,A DIVISION,2,2,Signals,1
+2015-11-01,A DIVISION,3,1,Signals,1
+2015-11-01,A DIVISION,3,2,Persons on Trackbed/Police/Medical,1
+2015-11-01,A DIVISION,3,2,Subway Car,1
+2015-11-01,A DIVISION,4,1,Stations and Structure,1
+2015-11-01,A DIVISION,4,1,Subway Car,1
+2015-11-01,A DIVISION,4,2,Signals,1
+2015-11-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2015-11-01,A DIVISION,5,1,Signals,5
+2015-11-01,A DIVISION,5,1,Track,2
+2015-11-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,2
+2015-11-01,A DIVISION,6,1,Signals,2
+2015-11-01,A DIVISION,6,1,Track,1
+2015-11-01,A DIVISION,6,2,Persons on Trackbed/Police/Medical,1
+2015-11-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,1
+2015-11-01,A DIVISION,7,1,Stations and Structure,1
+2015-11-01,A DIVISION,7,1,Subway Car,1
+2015-11-01,A DIVISION,7,1,Track,1
+2015-11-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2015-11-01,B DIVISION,A,1,Track,1
+2015-11-01,B DIVISION,B,1,Other,1
+2015-11-01,B DIVISION,B,1,Signals,2
+2015-11-01,B DIVISION,C,1,Stations and Structure,1
+2015-11-01,B DIVISION,D,1,Track,1
+2015-11-01,B DIVISION,E,1,Signals,2
+2015-11-01,B DIVISION,E,1,Stations and Structure,1
+2015-11-01,B DIVISION,E,1,Track,1
+2015-11-01,B DIVISION,E,2,Stations and Structure,1
+2015-11-01,B DIVISION,F,1,Signals,1
+2015-11-01,B DIVISION,F,1,Stations and Structure,2
+2015-11-01,B DIVISION,F,1,Track,1
+2015-11-01,B DIVISION,JZ,2,Persons on Trackbed/Police/Medical,1
+2015-11-01,B DIVISION,L,1,Signals,1
+2015-11-01,B DIVISION,L,2,Track,1
+2015-11-01,B DIVISION,M,1,Other,1
+2015-11-01,B DIVISION,M,1,Signals,1
+2015-11-01,B DIVISION,M,1,Track,1
+2015-11-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2015-11-01,B DIVISION,N,1,Signals,3
+2015-11-01,B DIVISION,N,1,Track,2
+2015-11-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,3
+2015-11-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,1
+2015-11-01,B DIVISION,R,1,Track,3
+2015-11-01,Systemwide,Systemwide,1,Other,2
+2015-11-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,11
+2015-11-01,Systemwide,Systemwide,1,Signals,19
+2015-11-01,Systemwide,Systemwide,1,Stations and Structure,6
+2015-11-01,Systemwide,Systemwide,1,Subway Car,2
+2015-11-01,Systemwide,Systemwide,1,Track,15
+2015-11-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,3
+2015-11-01,Systemwide,Systemwide,2,Signals,4
+2015-11-01,Systemwide,Systemwide,2,Stations and Structure,1
+2015-11-01,Systemwide,Systemwide,2,Subway Car,1
+2015-11-01,Systemwide,Systemwide,2,Track,1
+2015-12-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,2
+2015-12-01,A DIVISION,1,1,Signals,1
+2015-12-01,A DIVISION,2,1,Signals,2
+2015-12-01,A DIVISION,2,1,Subway Car,1
+2015-12-01,A DIVISION,2,1,Track,1
+2015-12-01,A DIVISION,3,1,Other,1
+2015-12-01,A DIVISION,3,1,Signals,1
+2015-12-01,A DIVISION,3,2,Signals,1
+2015-12-01,A DIVISION,3,2,Stations and Structure,1
+2015-12-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2015-12-01,A DIVISION,4,1,Signals,1
+2015-12-01,A DIVISION,4,1,Subway Car,1
+2015-12-01,A DIVISION,5,1,Other,1
+2015-12-01,A DIVISION,5,1,Signals,1
+2015-12-01,A DIVISION,5,1,Track,2
+2015-12-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,2
+2015-12-01,A DIVISION,6,1,Signals,1
+2015-12-01,A DIVISION,6,1,Track,4
+2015-12-01,A DIVISION,7,1,Other,1
+2015-12-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,1
+2015-12-01,A DIVISION,7,1,Signals,2
+2015-12-01,A DIVISION,7,1,Subway Car,1
+2015-12-01,A DIVISION,7,2,Signals,1
+2015-12-01,A DIVISION,S 42nd,1,Subway Car,1
+2015-12-01,B DIVISION,A,1,Other,1
+2015-12-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2015-12-01,B DIVISION,A,1,Track,2
+2015-12-01,B DIVISION,B,1,Subway Car,1
+2015-12-01,B DIVISION,B,1,Track,1
+2015-12-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2015-12-01,B DIVISION,D,1,Signals,1
+2015-12-01,B DIVISION,D,1,Track,1
+2015-12-01,B DIVISION,D,2,Persons on Trackbed/Police/Medical,1
+2015-12-01,B DIVISION,E,1,Signals,1
+2015-12-01,B DIVISION,E,1,Track,2
+2015-12-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2015-12-01,B DIVISION,F,1,Signals,5
+2015-12-01,B DIVISION,F,1,Stations and Structure,1
+2015-12-01,B DIVISION,F,1,Track,3
+2015-12-01,B DIVISION,F,2,Track,1
+2015-12-01,B DIVISION,G,1,Persons on Trackbed/Police/Medical,1
+2015-12-01,B DIVISION,JZ,1,Subway Car,1
+2015-12-01,B DIVISION,L,1,Stations and Structure,1
+2015-12-01,B DIVISION,L,1,Track,1
+2015-12-01,B DIVISION,L,2,Track,1
+2015-12-01,B DIVISION,M,1,Persons on Trackbed/Police/Medical,1
+2015-12-01,B DIVISION,M,1,Signals,2
+2015-12-01,B DIVISION,M,1,Subway Car,1
+2015-12-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2015-12-01,B DIVISION,N,1,Signals,1
+2015-12-01,B DIVISION,R,1,Other,1
+2015-12-01,B DIVISION,R,1,Signals,3
+2015-12-01,B DIVISION,R,1,Track,3
+2015-12-01,Systemwide,Systemwide,1,Other,5
+2015-12-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,13
+2015-12-01,Systemwide,Systemwide,1,Signals,22
+2015-12-01,Systemwide,Systemwide,1,Stations and Structure,2
+2015-12-01,Systemwide,Systemwide,1,Subway Car,7
+2015-12-01,Systemwide,Systemwide,1,Track,20
+2015-12-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2015-12-01,Systemwide,Systemwide,2,Signals,2
+2015-12-01,Systemwide,Systemwide,2,Stations and Structure,1
+2015-12-01,Systemwide,Systemwide,2,Track,2
+2016-01-01,A DIVISION,1,1,Signals,1
+2016-01-01,A DIVISION,1,2,Persons on Trackbed/Police/Medical,1
+2016-01-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,3
+2016-01-01,A DIVISION,2,1,Signals,2
+2016-01-01,A DIVISION,2,1,Track,1
+2016-01-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,1
+2016-01-01,A DIVISION,3,1,Signals,2
+2016-01-01,A DIVISION,3,1,Track,1
+2016-01-01,A DIVISION,3,2,Persons on Trackbed/Police/Medical,1
+2016-01-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,1
+2016-01-01,A DIVISION,4,1,Signals,4
+2016-01-01,A DIVISION,4,1,Subway Car,1
+2016-01-01,A DIVISION,4,1,Track,1
+2016-01-01,A DIVISION,4,2,Other,1
+2016-01-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,2
+2016-01-01,A DIVISION,5,1,Stations and Structure,1
+2016-01-01,A DIVISION,5,1,Track,2
+2016-01-01,A DIVISION,6,1,Other,2
+2016-01-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,1
+2016-01-01,A DIVISION,6,1,Subway Car,2
+2016-01-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,1
+2016-01-01,A DIVISION,7,1,Track,2
+2016-01-01,A DIVISION,7,2,Other,1
+2016-01-01,B DIVISION,A,1,Signals,1
+2016-01-01,B DIVISION,A,1,Track,3
+2016-01-01,B DIVISION,A,2,Signals,2
+2016-01-01,B DIVISION,B,1,Other,1
+2016-01-01,B DIVISION,B,1,Track,2
+2016-01-01,B DIVISION,C,1,Persons on Trackbed/Police/Medical,2
+2016-01-01,B DIVISION,C,2,Persons on Trackbed/Police/Medical,2
+2016-01-01,B DIVISION,D,1,Other,1
+2016-01-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,1
+2016-01-01,B DIVISION,E,1,Signals,1
+2016-01-01,B DIVISION,E,1,Track,1
+2016-01-01,B DIVISION,E,2,Track,1
+2016-01-01,B DIVISION,F,1,Track,2
+2016-01-01,B DIVISION,F,2,Signals,1
+2016-01-01,B DIVISION,L,1,Signals,1
+2016-01-01,B DIVISION,L,1,Track,1
+2016-01-01,B DIVISION,L,2,Other,1
+2016-01-01,B DIVISION,L,2,Persons on Trackbed/Police/Medical,1
+2016-01-01,B DIVISION,L,2,Stations and Structure,1
+2016-01-01,B DIVISION,M,1,Signals,1
+2016-01-01,B DIVISION,M,1,Track,1
+2016-01-01,B DIVISION,N,1,Subway Car,1
+2016-01-01,B DIVISION,N,1,Track,3
+2016-01-01,B DIVISION,N,2,Other,1
+2016-01-01,B DIVISION,Q,1,Other,1
+2016-01-01,B DIVISION,Q,1,Signals,2
+2016-01-01,B DIVISION,Q,1,Track,2
+2016-01-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,2
+2016-01-01,B DIVISION,R,1,Subway Car,2
+2016-01-01,B DIVISION,R,1,Track,1
+2016-01-01,B DIVISION,R,2,Other,1
+2016-01-01,B DIVISION,R,2,Track,1
+2016-01-01,Systemwide,Systemwide,1,Other,5
+2016-01-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,15
+2016-01-01,Systemwide,Systemwide,1,Signals,15
+2016-01-01,Systemwide,Systemwide,1,Stations and Structure,1
+2016-01-01,Systemwide,Systemwide,1,Subway Car,6
+2016-01-01,Systemwide,Systemwide,1,Track,23
+2016-01-01,Systemwide,Systemwide,2,Other,7
+2016-01-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,5
+2016-01-01,Systemwide,Systemwide,2,Signals,3
+2016-01-01,Systemwide,Systemwide,2,Stations and Structure,1
+2016-01-01,Systemwide,Systemwide,2,Track,2
+2016-01-01,,,1,Persons on Trackbed/Police/Medical,1
+2016-02-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2016-02-01,A DIVISION,1,1,Subway Car,1
+2016-02-01,A DIVISION,2,1,Track,2
+2016-02-01,A DIVISION,3,1,Track,2
+2016-02-01,A DIVISION,4,1,Other,1
+2016-02-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,1
+2016-02-01,A DIVISION,4,1,Signals,2
+2016-02-01,A DIVISION,4,1,Track,1
+2016-02-01,A DIVISION,4,2,Signals,1
+2016-02-01,A DIVISION,5,1,Other,1
+2016-02-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,5
+2016-02-01,A DIVISION,5,1,Signals,1
+2016-02-01,A DIVISION,5,1,Track,1
+2016-02-01,A DIVISION,6,1,Other,1
+2016-02-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,1
+2016-02-01,A DIVISION,6,1,Stations and Structure,1
+2016-02-01,A DIVISION,6,1,Track,3
+2016-02-01,A DIVISION,6,2,Persons on Trackbed/Police/Medical,1
+2016-02-01,A DIVISION,7,1,Other,1
+2016-02-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,1
+2016-02-01,A DIVISION,7,1,Signals,2
+2016-02-01,A DIVISION,7,1,Subway Car,5
+2016-02-01,A DIVISION,7,1,Track,1
+2016-02-01,B DIVISION,A,1,Other,1
+2016-02-01,B DIVISION,A,1,Signals,1
+2016-02-01,B DIVISION,A,1,Subway Car,1
+2016-02-01,B DIVISION,A,1,Track,1
+2016-02-01,B DIVISION,B,1,Persons on Trackbed/Police/Medical,1
+2016-02-01,B DIVISION,B,1,Track,1
+2016-02-01,B DIVISION,D,1,Track,1
+2016-02-01,B DIVISION,E,1,Other,1
+2016-02-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,1
+2016-02-01,B DIVISION,E,1,Track,3
+2016-02-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2016-02-01,B DIVISION,F,1,Subway Car,1
+2016-02-01,B DIVISION,F,1,Track,1
+2016-02-01,B DIVISION,L,1,Signals,1
+2016-02-01,B DIVISION,M,1,Signals,1
+2016-02-01,B DIVISION,M,1,Track,1
+2016-02-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2016-02-01,B DIVISION,N,1,Signals,1
+2016-02-01,B DIVISION,Q,1,Signals,2
+2016-02-01,B DIVISION,Q,1,Track,2
+2016-02-01,B DIVISION,R,1,Signals,1
+2016-02-01,Systemwide,Systemwide,1,Other,6
+2016-02-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,13
+2016-02-01,Systemwide,Systemwide,1,Signals,12
+2016-02-01,Systemwide,Systemwide,1,Stations and Structure,1
+2016-02-01,Systemwide,Systemwide,1,Subway Car,8
+2016-02-01,Systemwide,Systemwide,1,Track,20
+2016-02-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2016-02-01,Systemwide,Systemwide,2,Signals,1
+2016-03-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,3
+2016-03-01,A DIVISION,1,1,Signals,2
+2016-03-01,A DIVISION,1,1,Track,3
+2016-03-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,3
+2016-03-01,A DIVISION,2,1,Signals,1
+2016-03-01,A DIVISION,2,1,Subway Car,1
+2016-03-01,A DIVISION,3,1,Other,2
+2016-03-01,A DIVISION,3,1,Signals,1
+2016-03-01,A DIVISION,3,1,Track,1
+2016-03-01,A DIVISION,4,1,Other,2
+2016-03-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,3
+2016-03-01,A DIVISION,4,1,Signals,1
+2016-03-01,A DIVISION,4,2,Persons on Trackbed/Police/Medical,1
+2016-03-01,A DIVISION,5,1,Signals,6
+2016-03-01,A DIVISION,6,1,Other,1
+2016-03-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,1
+2016-03-01,A DIVISION,7,1,Signals,3
+2016-03-01,A DIVISION,7,1,Track,3
+2016-03-01,B DIVISION,A,1,Signals,2
+2016-03-01,B DIVISION,B,1,Track,1
+2016-03-01,B DIVISION,C,1,Track,1
+2016-03-01,B DIVISION,D,1,Signals,1
+2016-03-01,B DIVISION,D,1,Subway Car,1
+2016-03-01,B DIVISION,D,1,Track,2
+2016-03-01,B DIVISION,E,1,Track,1
+2016-03-01,B DIVISION,F,1,Other,1
+2016-03-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2016-03-01,B DIVISION,F,1,Signals,2
+2016-03-01,B DIVISION,F,1,Track,1
+2016-03-01,B DIVISION,L,1,Signals,2
+2016-03-01,B DIVISION,L,1,Track,1
+2016-03-01,B DIVISION,M,1,Signals,1
+2016-03-01,B DIVISION,M,1,Track,1
+2016-03-01,B DIVISION,N,1,Signals,1
+2016-03-01,B DIVISION,Q,1,Signals,2
+2016-03-01,B DIVISION,Q,1,Stations and Structure,1
+2016-03-01,B DIVISION,Q,1,Track,2
+2016-03-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,2
+2016-03-01,B DIVISION,R,2,Signals,1
+2016-03-01,Systemwide,Systemwide,1,Other,6
+2016-03-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,13
+2016-03-01,Systemwide,Systemwide,1,Signals,25
+2016-03-01,Systemwide,Systemwide,1,Stations and Structure,1
+2016-03-01,Systemwide,Systemwide,1,Subway Car,2
+2016-03-01,Systemwide,Systemwide,1,Track,17
+2016-03-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2016-03-01,Systemwide,Systemwide,2,Signals,1
+2016-04-01,A DIVISION,1,1,Other,1
+2016-04-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,2
+2016-04-01,A DIVISION,1,1,Signals,2
+2016-04-01,A DIVISION,1,2,Track,1
+2016-04-01,A DIVISION,2,1,Other,2
+2016-04-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,3
+2016-04-01,A DIVISION,2,1,Signals,3
+2016-04-01,A DIVISION,2,2,Persons on Trackbed/Police/Medical,1
+2016-04-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,2
+2016-04-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2016-04-01,A DIVISION,4,1,Track,3
+2016-04-01,A DIVISION,4,2,Persons on Trackbed/Police/Medical,1
+2016-04-01,A DIVISION,5,1,Other,2
+2016-04-01,A DIVISION,5,1,Signals,2
+2016-04-01,A DIVISION,5,2,Persons on Trackbed/Police/Medical,1
+2016-04-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,2
+2016-04-01,A DIVISION,6,1,Signals,3
+2016-04-01,A DIVISION,6,1,Subway Car,1
+2016-04-01,A DIVISION,6,1,Track,1
+2016-04-01,A DIVISION,6,2,Persons on Trackbed/Police/Medical,1
+2016-04-01,A DIVISION,7,1,Signals,2
+2016-04-01,A DIVISION,7,1,Subway Car,1
+2016-04-01,A DIVISION,7,1,Track,3
+2016-04-01,B DIVISION,A,1,Signals,1
+2016-04-01,B DIVISION,A,1,Track,3
+2016-04-01,B DIVISION,A,2,Subway Car,1
+2016-04-01,B DIVISION,B,1,Persons on Trackbed/Police/Medical,1
+2016-04-01,B DIVISION,B,1,Track,1
+2016-04-01,B DIVISION,C,1,Signals,1
+2016-04-01,B DIVISION,C,1,Subway Car,1
+2016-04-01,B DIVISION,C,1,Track,1
+2016-04-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2016-04-01,B DIVISION,D,1,Signals,1
+2016-04-01,B DIVISION,D,1,Track,1
+2016-04-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,2
+2016-04-01,B DIVISION,E,1,Signals,4
+2016-04-01,B DIVISION,E,1,Track,1
+2016-04-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2016-04-01,B DIVISION,F,1,Signals,1
+2016-04-01,B DIVISION,F,1,Stations and Structure,1
+2016-04-01,B DIVISION,F,1,Track,1
+2016-04-01,B DIVISION,L,1,Persons on Trackbed/Police/Medical,1
+2016-04-01,B DIVISION,L,2,Signals,1
+2016-04-01,B DIVISION,M,1,Subway Car,2
+2016-04-01,B DIVISION,M,1,Track,1
+2016-04-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,1
+2016-04-01,B DIVISION,Q,1,Track,1
+2016-04-01,B DIVISION,R,1,Stations and Structure,1
+2016-04-01,B DIVISION,R,2,Track,1
+2016-04-01,Systemwide,Systemwide,1,Other,5
+2016-04-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,18
+2016-04-01,Systemwide,Systemwide,1,Signals,20
+2016-04-01,Systemwide,Systemwide,1,Stations and Structure,2
+2016-04-01,Systemwide,Systemwide,1,Subway Car,5
+2016-04-01,Systemwide,Systemwide,1,Track,17
+2016-04-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,4
+2016-04-01,Systemwide,Systemwide,2,Signals,1
+2016-04-01,Systemwide,Systemwide,2,Subway Car,1
+2016-04-01,Systemwide,Systemwide,2,Track,2
+2016-05-01,A DIVISION,1,1,Track,1
+2016-05-01,A DIVISION,1,2,Persons on Trackbed/Police/Medical,1
+2016-05-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2016-05-01,A DIVISION,2,1,Signals,1
+2016-05-01,A DIVISION,2,1,Track,2
+2016-05-01,A DIVISION,2,2,Persons on Trackbed/Police/Medical,1
+2016-05-01,A DIVISION,3,1,Signals,1
+2016-05-01,A DIVISION,3,1,Track,2
+2016-05-01,A DIVISION,3,2,Signals,1
+2016-05-01,A DIVISION,3,2,Subway Car,1
+2016-05-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,1
+2016-05-01,A DIVISION,4,1,Signals,3
+2016-05-01,A DIVISION,4,1,Subway Car,1
+2016-05-01,A DIVISION,4,1,Track,1
+2016-05-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,2
+2016-05-01,A DIVISION,5,1,Signals,2
+2016-05-01,A DIVISION,5,1,Track,1
+2016-05-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,2
+2016-05-01,A DIVISION,6,1,Signals,1
+2016-05-01,A DIVISION,6,1,Subway Car,1
+2016-05-01,A DIVISION,6,1,Track,3
+2016-05-01,A DIVISION,7,1,Other,1
+2016-05-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,1
+2016-05-01,A DIVISION,7,1,Signals,4
+2016-05-01,A DIVISION,7,1,Subway Car,1
+2016-05-01,B DIVISION,A,1,Track,1
+2016-05-01,B DIVISION,A,2,Persons on Trackbed/Police/Medical,1
+2016-05-01,B DIVISION,C,1,Track,1
+2016-05-01,B DIVISION,C,2,Track,1
+2016-05-01,B DIVISION,D,1,Signals,1
+2016-05-01,B DIVISION,D,1,Track,1
+2016-05-01,B DIVISION,D,2,Track,1
+2016-05-01,B DIVISION,E,1,Signals,1
+2016-05-01,B DIVISION,E,1,Track,2
+2016-05-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2016-05-01,B DIVISION,F,1,Signals,1
+2016-05-01,B DIVISION,F,1,Track,1
+2016-05-01,B DIVISION,G,1,Signals,1
+2016-05-01,B DIVISION,JZ,1,Signals,1
+2016-05-01,B DIVISION,JZ,2,Subway Car,1
+2016-05-01,B DIVISION,M,1,Signals,1
+2016-05-01,B DIVISION,N,1,Other,1
+2016-05-01,B DIVISION,N,1,Subway Car,1
+2016-05-01,B DIVISION,N,1,Track,2
+2016-05-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,1
+2016-05-01,B DIVISION,Q,1,Track,1
+2016-05-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,1
+2016-05-01,B DIVISION,R,1,Signals,1
+2016-05-01,B DIVISION,R,1,Subway Car,1
+2016-05-01,B DIVISION,R,1,Track,2
+2016-05-01,B DIVISION,R,2,Signals,1
+2016-05-01,Systemwide,Systemwide,1,Other,2
+2016-05-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,10
+2016-05-01,Systemwide,Systemwide,1,Signals,19
+2016-05-01,Systemwide,Systemwide,1,Subway Car,5
+2016-05-01,Systemwide,Systemwide,1,Track,21
+2016-05-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,3
+2016-05-01,Systemwide,Systemwide,2,Signals,2
+2016-05-01,Systemwide,Systemwide,2,Subway Car,2
+2016-05-01,Systemwide,Systemwide,2,Track,2
+2016-06-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,3
+2016-06-01,A DIVISION,1,1,Signals,2
+2016-06-01,A DIVISION,1,1,Stations and Structure,1
+2016-06-01,A DIVISION,1,1,Track,1
+2016-06-01,A DIVISION,2,1,Other,1
+2016-06-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,3
+2016-06-01,A DIVISION,2,1,Signals,1
+2016-06-01,A DIVISION,2,2,Persons on Trackbed/Police/Medical,1
+2016-06-01,A DIVISION,2,2,Track,1
+2016-06-01,A DIVISION,3,1,Signals,2
+2016-06-01,A DIVISION,4,1,Other,2
+2016-06-01,A DIVISION,4,1,Signals,4
+2016-06-01,A DIVISION,4,2,Persons on Trackbed/Police/Medical,1
+2016-06-01,A DIVISION,4,2,Subway Car,2
+2016-06-01,A DIVISION,5,1,Other,1
+2016-06-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,5
+2016-06-01,A DIVISION,5,1,Signals,3
+2016-06-01,A DIVISION,5,1,Stations and Structure,3
+2016-06-01,A DIVISION,6,1,Subway Car,2
+2016-06-01,A DIVISION,6,1,Track,3
+2016-06-01,A DIVISION,6,2,Track,1
+2016-06-01,A DIVISION,7,1,Signals,1
+2016-06-01,A DIVISION,7,1,Track,3
+2016-06-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2016-06-01,B DIVISION,A,1,Signals,3
+2016-06-01,B DIVISION,A,1,Track,1
+2016-06-01,B DIVISION,B,1,Track,1
+2016-06-01,B DIVISION,D,1,Stations and Structure,1
+2016-06-01,B DIVISION,D,1,Track,4
+2016-06-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,2
+2016-06-01,B DIVISION,E,1,Signals,2
+2016-06-01,B DIVISION,E,1,Track,4
+2016-06-01,B DIVISION,E,2,Persons on Trackbed/Police/Medical,1
+2016-06-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2016-06-01,B DIVISION,F,1,Subway Car,1
+2016-06-01,B DIVISION,F,1,Track,2
+2016-06-01,B DIVISION,G,1,Signals,1
+2016-06-01,B DIVISION,JZ,1,Stations and Structure,1
+2016-06-01,B DIVISION,L,1,Stations and Structure,1
+2016-06-01,B DIVISION,L,1,Track,1
+2016-06-01,B DIVISION,L,2,Track,1
+2016-06-01,B DIVISION,M,1,Track,2
+2016-06-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2016-06-01,B DIVISION,Q,1,Signals,1
+2016-06-01,B DIVISION,Q,1,Stations and Structure,1
+2016-06-01,B DIVISION,Q,1,Track,3
+2016-06-01,B DIVISION,Q,2,Signals,1
+2016-06-01,B DIVISION,R,1,Other,1
+2016-06-01,B DIVISION,R,1,Signals,1
+2016-06-01,B DIVISION,R,1,Subway Car,1
+2016-06-01,B DIVISION,R,1,Track,3
+2016-06-01,B DIVISION,S Rock,1,Persons on Trackbed/Police/Medical,1
+2016-06-01,Systemwide,Systemwide,1,Other,5
+2016-06-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,17
+2016-06-01,Systemwide,Systemwide,1,Signals,21
+2016-06-01,Systemwide,Systemwide,1,Stations and Structure,8
+2016-06-01,Systemwide,Systemwide,1,Subway Car,4
+2016-06-01,Systemwide,Systemwide,1,Track,28
+2016-06-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,3
+2016-06-01,Systemwide,Systemwide,2,Signals,1
+2016-06-01,Systemwide,Systemwide,2,Subway Car,2
+2016-06-01,Systemwide,Systemwide,2,Track,3
+2016-07-01,A DIVISION,1,1,Signals,1
+2016-07-01,A DIVISION,2,1,Other,1
+2016-07-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2016-07-01,A DIVISION,2,1,Signals,2
+2016-07-01,A DIVISION,2,1,Stations and Structure,1
+2016-07-01,A DIVISION,2,2,Track,1
+2016-07-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,1
+2016-07-01,A DIVISION,3,1,Signals,1
+2016-07-01,A DIVISION,3,1,Stations and Structure,1
+2016-07-01,A DIVISION,3,1,Subway Car,1
+2016-07-01,A DIVISION,3,1,Track,1
+2016-07-01,A DIVISION,4,1,Other,1
+2016-07-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2016-07-01,A DIVISION,4,1,Signals,1
+2016-07-01,A DIVISION,4,1,Subway Car,1
+2016-07-01,A DIVISION,4,2,Signals,1
+2016-07-01,A DIVISION,4,2,Track,1
+2016-07-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,2
+2016-07-01,A DIVISION,5,1,Signals,2
+2016-07-01,A DIVISION,5,1,Subway Car,1
+2016-07-01,A DIVISION,5,1,Track,1
+2016-07-01,A DIVISION,6,1,Other,1
+2016-07-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,2
+2016-07-01,A DIVISION,6,1,Signals,1
+2016-07-01,A DIVISION,6,1,Stations and Structure,1
+2016-07-01,A DIVISION,6,1,Track,4
+2016-07-01,A DIVISION,6,2,Persons on Trackbed/Police/Medical,1
+2016-07-01,A DIVISION,7,1,Subway Car,1
+2016-07-01,A DIVISION,7,2,Other,1
+2016-07-01,A DIVISION,S 42nd,1,Track,1
+2016-07-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,2
+2016-07-01,B DIVISION,A,1,Track,1
+2016-07-01,B DIVISION,B,1,Signals,1
+2016-07-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2016-07-01,B DIVISION,E,1,Signals,5
+2016-07-01,B DIVISION,E,2,Track,1
+2016-07-01,B DIVISION,F,1,Signals,4
+2016-07-01,B DIVISION,F,1,Stations and Structure,1
+2016-07-01,B DIVISION,F,1,Track,1
+2016-07-01,B DIVISION,JZ,1,Subway Car,1
+2016-07-01,B DIVISION,L,1,Persons on Trackbed/Police/Medical,1
+2016-07-01,B DIVISION,L,1,Signals,1
+2016-07-01,B DIVISION,L,1,Track,1
+2016-07-01,B DIVISION,L,2,Other,1
+2016-07-01,B DIVISION,M,1,Signals,2
+2016-07-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2016-07-01,B DIVISION,N,1,Signals,2
+2016-07-01,B DIVISION,N,1,Stations and Structure,1
+2016-07-01,B DIVISION,N,1,Subway Car,1
+2016-07-01,B DIVISION,N,1,Track,3
+2016-07-01,B DIVISION,N,2,Signals,1
+2016-07-01,B DIVISION,Q,1,Signals,3
+2016-07-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,1
+2016-07-01,B DIVISION,R,1,Subway Car,1
+2016-07-01,Systemwide,Systemwide,1,Other,3
+2016-07-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,14
+2016-07-01,Systemwide,Systemwide,1,Signals,26
+2016-07-01,Systemwide,Systemwide,1,Stations and Structure,5
+2016-07-01,Systemwide,Systemwide,1,Subway Car,7
+2016-07-01,Systemwide,Systemwide,1,Track,13
+2016-07-01,Systemwide,Systemwide,2,Other,2
+2016-07-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2016-07-01,Systemwide,Systemwide,2,Signals,2
+2016-07-01,Systemwide,Systemwide,2,Track,4
+2016-08-01,A DIVISION,1,2,Persons on Trackbed/Police/Medical,1
+2016-08-01,A DIVISION,1,2,Stations and Structure,1
+2016-08-01,A DIVISION,2,1,Signals,2
+2016-08-01,A DIVISION,2,1,Track,4
+2016-08-01,A DIVISION,3,1,Signals,1
+2016-08-01,A DIVISION,3,1,Subway Car,1
+2016-08-01,A DIVISION,3,1,Track,1
+2016-08-01,A DIVISION,4,1,Other,1
+2016-08-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,3
+2016-08-01,A DIVISION,4,1,Signals,2
+2016-08-01,A DIVISION,4,1,Track,1
+2016-08-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,4
+2016-08-01,A DIVISION,5,1,Signals,3
+2016-08-01,A DIVISION,5,1,Subway Car,1
+2016-08-01,A DIVISION,5,1,Track,2
+2016-08-01,A DIVISION,6,1,Other,1
+2016-08-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,1
+2016-08-01,A DIVISION,6,2,Signals,1
+2016-08-01,A DIVISION,7,1,Other,1
+2016-08-01,A DIVISION,7,1,Track,1
+2016-08-01,A DIVISION,S 42nd,1,Subway Car,1
+2016-08-01,B DIVISION,A,1,Subway Car,1
+2016-08-01,B DIVISION,A,1,Track,1
+2016-08-01,B DIVISION,B,1,Persons on Trackbed/Police/Medical,2
+2016-08-01,B DIVISION,B,1,Stations and Structure,1
+2016-08-01,B DIVISION,D,1,Signals,1
+2016-08-01,B DIVISION,D,1,Track,1
+2016-08-01,B DIVISION,E,1,Signals,1
+2016-08-01,B DIVISION,F,1,Signals,2
+2016-08-01,B DIVISION,F,1,Track,1
+2016-08-01,B DIVISION,G,1,Track,1
+2016-08-01,B DIVISION,JZ,1,Track,1
+2016-08-01,B DIVISION,L,1,Track,2
+2016-08-01,B DIVISION,M,1,Persons on Trackbed/Police/Medical,2
+2016-08-01,B DIVISION,M,1,Signals,1
+2016-08-01,B DIVISION,M,2,Track,1
+2016-08-01,B DIVISION,N,1,Signals,1
+2016-08-01,B DIVISION,N,1,Subway Car,1
+2016-08-01,B DIVISION,N,1,Track,1
+2016-08-01,B DIVISION,Q,1,Track,1
+2016-08-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,1
+2016-08-01,B DIVISION,R,1,Signals,1
+2016-08-01,B DIVISION,R,1,Track,1
+2016-08-01,Systemwide,Systemwide,1,Other,3
+2016-08-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,13
+2016-08-01,Systemwide,Systemwide,1,Signals,15
+2016-08-01,Systemwide,Systemwide,1,Stations and Structure,1
+2016-08-01,Systemwide,Systemwide,1,Subway Car,5
+2016-08-01,Systemwide,Systemwide,1,Track,19
+2016-08-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2016-08-01,Systemwide,Systemwide,2,Signals,1
+2016-08-01,Systemwide,Systemwide,2,Stations and Structure,1
+2016-08-01,Systemwide,Systemwide,2,Track,1
+2016-09-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,2
+2016-09-01,A DIVISION,1,1,Signals,1
+2016-09-01,A DIVISION,1,2,Persons on Trackbed/Police/Medical,1
+2016-09-01,A DIVISION,1,2,Track,1
+2016-09-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,2
+2016-09-01,A DIVISION,2,1,Signals,3
+2016-09-01,A DIVISION,2,1,Subway Car,2
+2016-09-01,A DIVISION,2,1,Track,1
+2016-09-01,A DIVISION,2,2,Other,1
+2016-09-01,A DIVISION,3,1,Signals,3
+2016-09-01,A DIVISION,3,1,Subway Car,1
+2016-09-01,A DIVISION,3,1,Track,1
+2016-09-01,A DIVISION,3,2,Other,1
+2016-09-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2016-09-01,A DIVISION,4,1,Signals,4
+2016-09-01,A DIVISION,4,1,Subway Car,1
+2016-09-01,A DIVISION,5,1,Other,1
+2016-09-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,2
+2016-09-01,A DIVISION,5,1,Signals,1
+2016-09-01,A DIVISION,5,1,Track,2
+2016-09-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,3
+2016-09-01,A DIVISION,6,1,Signals,1
+2016-09-01,A DIVISION,6,2,Other,1
+2016-09-01,A DIVISION,7,1,Signals,2
+2016-09-01,B DIVISION,A,1,Signals,1
+2016-09-01,B DIVISION,A,1,Track,1
+2016-09-01,B DIVISION,B,1,Signals,1
+2016-09-01,B DIVISION,B,1,Track,1
+2016-09-01,B DIVISION,C,1,Subway Car,1
+2016-09-01,B DIVISION,D,1,Signals,1
+2016-09-01,B DIVISION,D,1,Track,1
+2016-09-01,B DIVISION,D,2,Signals,1
+2016-09-01,B DIVISION,E,1,Other,2
+2016-09-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,2
+2016-09-01,B DIVISION,E,1,Track,2
+2016-09-01,B DIVISION,E,2,Stations and Structure,1
+2016-09-01,B DIVISION,F,1,Signals,2
+2016-09-01,B DIVISION,F,1,Track,1
+2016-09-01,B DIVISION,F,2,Persons on Trackbed/Police/Medical,1
+2016-09-01,B DIVISION,F,2,Track,1
+2016-09-01,B DIVISION,JZ,1,Signals,3
+2016-09-01,B DIVISION,L,1,Persons on Trackbed/Police/Medical,1
+2016-09-01,B DIVISION,L,1,Signals,1
+2016-09-01,B DIVISION,L,2,Persons on Trackbed/Police/Medical,1
+2016-09-01,B DIVISION,L,2,Signals,1
+2016-09-01,B DIVISION,M,1,Signals,1
+2016-09-01,B DIVISION,N,1,Signals,1
+2016-09-01,B DIVISION,N,2,Other,1
+2016-09-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,2
+2016-09-01,B DIVISION,Q,1,Signals,3
+2016-09-01,B DIVISION,Q,1,Subway Car,1
+2016-09-01,B DIVISION,Q,2,Other,1
+2016-09-01,B DIVISION,R,1,Other,1
+2016-09-01,B DIVISION,R,1,Signals,1
+2016-09-01,B DIVISION,R,2,Other,1
+2016-09-01,Systemwide,Systemwide,1,Other,4
+2016-09-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,16
+2016-09-01,Systemwide,Systemwide,1,Signals,30
+2016-09-01,Systemwide,Systemwide,1,Subway Car,6
+2016-09-01,Systemwide,Systemwide,1,Track,10
+2016-09-01,Systemwide,Systemwide,2,Other,7
+2016-09-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,4
+2016-09-01,Systemwide,Systemwide,2,Signals,2
+2016-09-01,Systemwide,Systemwide,2,Stations and Structure,1
+2016-09-01,Systemwide,Systemwide,2,Track,2
+2016-10-01,A DIVISION,1,1,Signals,4
+2016-10-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2016-10-01,A DIVISION,2,1,Signals,1
+2016-10-01,A DIVISION,3,1,Signals,1
+2016-10-01,A DIVISION,3,1,Track,3
+2016-10-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2016-10-01,A DIVISION,4,1,Signals,2
+2016-10-01,A DIVISION,4,1,Subway Car,2
+2016-10-01,A DIVISION,4,1,Track,2
+2016-10-01,A DIVISION,4,2,Persons on Trackbed/Police/Medical,1
+2016-10-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,3
+2016-10-01,A DIVISION,5,1,Signals,4
+2016-10-01,A DIVISION,5,1,Stations and Structure,1
+2016-10-01,A DIVISION,5,1,Track,1
+2016-10-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,3
+2016-10-01,A DIVISION,6,1,Signals,4
+2016-10-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,1
+2016-10-01,A DIVISION,7,1,Signals,2
+2016-10-01,A DIVISION,7,1,Subway Car,1
+2016-10-01,A DIVISION,7,1,Track,1
+2016-10-01,A DIVISION,7,2,Signals,1
+2016-10-01,B DIVISION,A,1,Other,1
+2016-10-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,3
+2016-10-01,B DIVISION,A,1,Signals,3
+2016-10-01,B DIVISION,A,1,Stations and Structure,1
+2016-10-01,B DIVISION,C,2,Other,1
+2016-10-01,B DIVISION,C,2,Persons on Trackbed/Police/Medical,1
+2016-10-01,B DIVISION,D,1,Other,1
+2016-10-01,B DIVISION,E,1,Other,1
+2016-10-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,2
+2016-10-01,B DIVISION,E,1,Signals,2
+2016-10-01,B DIVISION,E,1,Stations and Structure,1
+2016-10-01,B DIVISION,E,1,Track,2
+2016-10-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,2
+2016-10-01,B DIVISION,F,1,Signals,1
+2016-10-01,B DIVISION,F,1,Subway Car,1
+2016-10-01,B DIVISION,L,1,Persons on Trackbed/Police/Medical,1
+2016-10-01,B DIVISION,L,1,Stations and Structure,1
+2016-10-01,B DIVISION,L,2,Persons on Trackbed/Police/Medical,1
+2016-10-01,B DIVISION,M,1,Track,1
+2016-10-01,B DIVISION,N,1,Signals,2
+2016-10-01,B DIVISION,N,1,Track,1
+2016-10-01,B DIVISION,N,2,Track,1
+2016-10-01,B DIVISION,Q,1,Signals,2
+2016-10-01,B DIVISION,Q,1,Track,1
+2016-10-01,B DIVISION,R,1,Track,1
+2016-10-01,Systemwide,Systemwide,1,Other,3
+2016-10-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,18
+2016-10-01,Systemwide,Systemwide,1,Signals,29
+2016-10-01,Systemwide,Systemwide,1,Stations and Structure,4
+2016-10-01,Systemwide,Systemwide,1,Subway Car,4
+2016-10-01,Systemwide,Systemwide,1,Track,13
+2016-10-01,Systemwide,Systemwide,2,Other,1
+2016-10-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,3
+2016-10-01,Systemwide,Systemwide,2,Signals,1
+2016-10-01,Systemwide,Systemwide,2,Track,1
+2016-10-01,,,1,Signals,1
+2016-11-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,3
+2016-11-01,A DIVISION,1,1,Signals,1
+2016-11-01,A DIVISION,1,1,Stations and Structure,1
+2016-11-01,A DIVISION,1,1,Track,1
+2016-11-01,A DIVISION,2,1,Signals,2
+2016-11-01,A DIVISION,2,2,Persons on Trackbed/Police/Medical,2
+2016-11-01,A DIVISION,3,1,Signals,1
+2016-11-01,A DIVISION,4,1,Other,1
+2016-11-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,1
+2016-11-01,A DIVISION,4,1,Signals,1
+2016-11-01,A DIVISION,4,1,Subway Car,3
+2016-11-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2016-11-01,A DIVISION,5,1,Signals,2
+2016-11-01,A DIVISION,5,1,Subway Car,1
+2016-11-01,A DIVISION,5,1,Track,1
+2016-11-01,A DIVISION,5,2,Persons on Trackbed/Police/Medical,1
+2016-11-01,A DIVISION,6,1,Other,1
+2016-11-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,1
+2016-11-01,A DIVISION,6,1,Signals,2
+2016-11-01,A DIVISION,6,1,Subway Car,2
+2016-11-01,A DIVISION,6,1,Track,1
+2016-11-01,A DIVISION,7,1,Signals,2
+2016-11-01,A DIVISION,7,1,Track,1
+2016-11-01,B DIVISION,A,1,Signals,3
+2016-11-01,B DIVISION,A,1,Track,1
+2016-11-01,B DIVISION,A,2,Signals,1
+2016-11-01,B DIVISION,B,1,Other,1
+2016-11-01,B DIVISION,B,1,Track,1
+2016-11-01,B DIVISION,C,1,Signals,2
+2016-11-01,B DIVISION,C,1,Subway Car,3
+2016-11-01,B DIVISION,C,2,Other,1
+2016-11-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2016-11-01,B DIVISION,D,1,Track,1
+2016-11-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,1
+2016-11-01,B DIVISION,E,1,Signals,2
+2016-11-01,B DIVISION,E,1,Track,1
+2016-11-01,B DIVISION,F,1,Other,2
+2016-11-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2016-11-01,B DIVISION,F,1,Signals,2
+2016-11-01,B DIVISION,F,1,Track,3
+2016-11-01,B DIVISION,G,1,Persons on Trackbed/Police/Medical,1
+2016-11-01,B DIVISION,G,1,Track,1
+2016-11-01,B DIVISION,JZ,1,Signals,2
+2016-11-01,B DIVISION,JZ,2,Signals,1
+2016-11-01,B DIVISION,L,1,Track,1
+2016-11-01,B DIVISION,M,1,Other,1
+2016-11-01,B DIVISION,M,1,Persons on Trackbed/Police/Medical,1
+2016-11-01,B DIVISION,M,1,Signals,3
+2016-11-01,B DIVISION,M,1,Track,1
+2016-11-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,3
+2016-11-01,B DIVISION,N,1,Signals,2
+2016-11-01,B DIVISION,N,1,Stations and Structure,1
+2016-11-01,B DIVISION,Q,1,Signals,1
+2016-11-01,B DIVISION,Q,1,Track,1
+2016-11-01,B DIVISION,Q,2,Track,1
+2016-11-01,B DIVISION,R,1,Signals,1
+2016-11-01,Systemwide,Systemwide,1,Other,6
+2016-11-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,14
+2016-11-01,Systemwide,Systemwide,1,Signals,29
+2016-11-01,Systemwide,Systemwide,1,Stations and Structure,2
+2016-11-01,Systemwide,Systemwide,1,Subway Car,9
+2016-11-01,Systemwide,Systemwide,1,Track,15
+2016-11-01,Systemwide,Systemwide,2,Other,1
+2016-11-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,3
+2016-11-01,Systemwide,Systemwide,2,Signals,2
+2016-11-01,Systemwide,Systemwide,2,Track,1
+2016-12-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,2
+2016-12-01,A DIVISION,1,1,Signals,1
+2016-12-01,A DIVISION,1,1,Subway Car,1
+2016-12-01,A DIVISION,1,2,Signals,1
+2016-12-01,A DIVISION,2,1,Signals,1
+2016-12-01,A DIVISION,2,1,Subway Car,1
+2016-12-01,A DIVISION,2,1,Track,2
+2016-12-01,A DIVISION,3,1,Signals,2
+2016-12-01,A DIVISION,3,1,Stations and Structure,1
+2016-12-01,A DIVISION,4,1,Other,1
+2016-12-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2016-12-01,A DIVISION,4,1,Subway Car,3
+2016-12-01,A DIVISION,4,1,Track,2
+2016-12-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,3
+2016-12-01,A DIVISION,5,1,Signals,1
+2016-12-01,A DIVISION,5,1,Track,1
+2016-12-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,5
+2016-12-01,A DIVISION,6,1,Stations and Structure,1
+2016-12-01,A DIVISION,6,1,Subway Car,2
+2016-12-01,A DIVISION,6,1,Track,3
+2016-12-01,A DIVISION,7,1,Other,1
+2016-12-01,A DIVISION,7,1,Signals,3
+2016-12-01,A DIVISION,7,1,Track,2
+2016-12-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,2
+2016-12-01,B DIVISION,A,1,Track,1
+2016-12-01,B DIVISION,A,2,Signals,1
+2016-12-01,B DIVISION,B,1,Signals,1
+2016-12-01,B DIVISION,B,1,Track,1
+2016-12-01,B DIVISION,D,1,Signals,1
+2016-12-01,B DIVISION,D,1,Track,2
+2016-12-01,B DIVISION,D,2,Other,1
+2016-12-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,1
+2016-12-01,B DIVISION,E,1,Signals,1
+2016-12-01,B DIVISION,F,1,Other,1
+2016-12-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2016-12-01,B DIVISION,F,1,Signals,1
+2016-12-01,B DIVISION,F,1,Stations and Structure,1
+2016-12-01,B DIVISION,F,1,Track,2
+2016-12-01,B DIVISION,F,2,Other,1
+2016-12-01,B DIVISION,F,2,Persons on Trackbed/Police/Medical,1
+2016-12-01,B DIVISION,F,2,Signals,1
+2016-12-01,B DIVISION,G,1,Persons on Trackbed/Police/Medical,1
+2016-12-01,B DIVISION,JZ,1,Signals,1
+2016-12-01,B DIVISION,JZ,1,Stations and Structure,1
+2016-12-01,B DIVISION,L,1,Track,1
+2016-12-01,B DIVISION,M,1,Signals,3
+2016-12-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,2
+2016-12-01,B DIVISION,N,1,Signals,3
+2016-12-01,B DIVISION,N,1,Subway Car,1
+2016-12-01,B DIVISION,N,2,Signals,1
+2016-12-01,B DIVISION,Q,1,Signals,1
+2016-12-01,B DIVISION,Q,1,Track,2
+2016-12-01,B DIVISION,Q,2,Track,1
+2016-12-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,2
+2016-12-01,B DIVISION,R,1,Signals,1
+2016-12-01,Systemwide,Systemwide,1,Other,3
+2016-12-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,21
+2016-12-01,Systemwide,Systemwide,1,Signals,21
+2016-12-01,Systemwide,Systemwide,1,Stations and Structure,4
+2016-12-01,Systemwide,Systemwide,1,Subway Car,8
+2016-12-01,Systemwide,Systemwide,1,Track,19
+2016-12-01,Systemwide,Systemwide,2,Other,2
+2016-12-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2016-12-01,Systemwide,Systemwide,2,Signals,4
+2016-12-01,Systemwide,Systemwide,2,Track,1
+2017-01-01,A DIVISION,1,1,Signals,1
+2017-01-01,A DIVISION,1,1,Stations and Structure,1
+2017-01-01,A DIVISION,1,1,Track,1
+2017-01-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,2
+2017-01-01,A DIVISION,2,1,Signals,1
+2017-01-01,A DIVISION,2,1,Track,4
+2017-01-01,A DIVISION,2,2,Track,1
+2017-01-01,A DIVISION,3,1,Other,1
+2017-01-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,2
+2017-01-01,A DIVISION,3,1,Signals,2
+2017-01-01,A DIVISION,3,1,Subway Car,1
+2017-01-01,A DIVISION,3,1,Track,1
+2017-01-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,1
+2017-01-01,A DIVISION,4,1,Track,2
+2017-01-01,A DIVISION,4,2,Other,1
+2017-01-01,A DIVISION,5,1,Other,1
+2017-01-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,3
+2017-01-01,A DIVISION,5,1,Signals,3
+2017-01-01,A DIVISION,5,2,Other,2
+2017-01-01,A DIVISION,5,2,Signals,1
+2017-01-01,A DIVISION,6,1,Other,2
+2017-01-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,1
+2017-01-01,A DIVISION,6,1,Signals,5
+2017-01-01,A DIVISION,6,1,Track,2
+2017-01-01,A DIVISION,6,2,Other,1
+2017-01-01,A DIVISION,7,1,Other,2
+2017-01-01,A DIVISION,7,1,Signals,3
+2017-01-01,A DIVISION,7,1,Track,1
+2017-01-01,B DIVISION,A,1,Other,1
+2017-01-01,B DIVISION,A,1,Track,2
+2017-01-01,B DIVISION,B,1,Persons on Trackbed/Police/Medical,2
+2017-01-01,B DIVISION,C,1,Other,1
+2017-01-01,B DIVISION,C,1,Track,1
+2017-01-01,B DIVISION,C,2,Persons on Trackbed/Police/Medical,1
+2017-01-01,B DIVISION,D,1,Signals,1
+2017-01-01,B DIVISION,E,1,Signals,1
+2017-01-01,B DIVISION,E,1,Stations and Structure,1
+2017-01-01,B DIVISION,F,1,Other,2
+2017-01-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,3
+2017-01-01,B DIVISION,F,1,Signals,2
+2017-01-01,B DIVISION,F,1,Stations and Structure,2
+2017-01-01,B DIVISION,G,1,Subway Car,1
+2017-01-01,B DIVISION,L,1,Persons on Trackbed/Police/Medical,1
+2017-01-01,B DIVISION,M,1,Persons on Trackbed/Police/Medical,1
+2017-01-01,B DIVISION,M,1,Signals,1
+2017-01-01,B DIVISION,M,1,Stations and Structure,1
+2017-01-01,B DIVISION,M,1,Track,1
+2017-01-01,B DIVISION,N,1,Signals,2
+2017-01-01,B DIVISION,N,1,Track,3
+2017-01-01,B DIVISION,N,2,Stations and Structure,1
+2017-01-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,1
+2017-01-01,B DIVISION,Q,1,Track,1
+2017-01-01,B DIVISION,Q,2,Signals,1
+2017-01-01,B DIVISION,R,1,Other,1
+2017-01-01,B DIVISION,R,1,Track,2
+2017-01-01,B DIVISION,R,2,Track,1
+2017-01-01,B DIVISION,W,1,Signals,1
+2017-01-01,Systemwide,Systemwide,1,Other,11
+2017-01-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,17
+2017-01-01,Systemwide,Systemwide,1,Signals,23
+2017-01-01,Systemwide,Systemwide,1,Stations and Structure,5
+2017-01-01,Systemwide,Systemwide,1,Subway Car,2
+2017-01-01,Systemwide,Systemwide,1,Track,21
+2017-01-01,Systemwide,Systemwide,2,Other,4
+2017-01-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2017-01-01,Systemwide,Systemwide,2,Signals,2
+2017-01-01,Systemwide,Systemwide,2,Stations and Structure,1
+2017-01-01,Systemwide,Systemwide,2,Track,2
+2017-02-01,A DIVISION,1,1,Other,1
+2017-02-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2017-02-01,A DIVISION,1,1,Signals,1
+2017-02-01,A DIVISION,1,1,Track,3
+2017-02-01,A DIVISION,1,2,Persons on Trackbed/Police/Medical,1
+2017-02-01,A DIVISION,2,1,Other,1
+2017-02-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2017-02-01,A DIVISION,2,1,Signals,1
+2017-02-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,1
+2017-02-01,A DIVISION,3,1,Signals,1
+2017-02-01,A DIVISION,3,1,Track,4
+2017-02-01,A DIVISION,4,1,Other,2
+2017-02-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,1
+2017-02-01,A DIVISION,4,1,Signals,4
+2017-02-01,A DIVISION,4,1,Track,1
+2017-02-01,A DIVISION,5,1,Other,2
+2017-02-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,3
+2017-02-01,A DIVISION,5,1,Signals,1
+2017-02-01,A DIVISION,5,1,Subway Car,1
+2017-02-01,A DIVISION,5,1,Track,1
+2017-02-01,A DIVISION,6,1,Other,1
+2017-02-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,1
+2017-02-01,A DIVISION,6,1,Signals,1
+2017-02-01,A DIVISION,6,1,Subway Car,1
+2017-02-01,A DIVISION,6,1,Track,3
+2017-02-01,A DIVISION,6,2,Persons on Trackbed/Police/Medical,1
+2017-02-01,A DIVISION,7,1,Other,1
+2017-02-01,A DIVISION,7,1,Signals,2
+2017-02-01,A DIVISION,7,1,Track,1
+2017-02-01,B DIVISION,A,1,Other,2
+2017-02-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2017-02-01,B DIVISION,A,1,Signals,2
+2017-02-01,B DIVISION,A,1,Subway Car,1
+2017-02-01,B DIVISION,A,1,Track,2
+2017-02-01,B DIVISION,B,1,Signals,1
+2017-02-01,B DIVISION,C,1,Signals,2
+2017-02-01,B DIVISION,D,1,Signals,1
+2017-02-01,B DIVISION,D,1,Track,1
+2017-02-01,B DIVISION,E,1,Signals,1
+2017-02-01,B DIVISION,F,1,Other,2
+2017-02-01,B DIVISION,F,1,Signals,2
+2017-02-01,B DIVISION,F,1,Track,1
+2017-02-01,B DIVISION,F,2,Persons on Trackbed/Police/Medical,1
+2017-02-01,B DIVISION,F,2,Signals,1
+2017-02-01,B DIVISION,JZ,1,Other,1
+2017-02-01,B DIVISION,JZ,1,Signals,1
+2017-02-01,B DIVISION,L,1,Signals,2
+2017-02-01,B DIVISION,L,2,Other,1
+2017-02-01,B DIVISION,L,2,Track,1
+2017-02-01,B DIVISION,M,1,Other,1
+2017-02-01,B DIVISION,M,1,Track,2
+2017-02-01,B DIVISION,N,1,Signals,1
+2017-02-01,B DIVISION,N,1,Subway Car,1
+2017-02-01,B DIVISION,N,1,Track,1
+2017-02-01,B DIVISION,Q,1,Track,1
+2017-02-01,B DIVISION,R,1,Other,3
+2017-02-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,1
+2017-02-01,B DIVISION,R,1,Track,2
+2017-02-01,Systemwide,Systemwide,1,Other,17
+2017-02-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,10
+2017-02-01,Systemwide,Systemwide,1,Signals,24
+2017-02-01,Systemwide,Systemwide,1,Subway Car,4
+2017-02-01,Systemwide,Systemwide,1,Track,23
+2017-02-01,Systemwide,Systemwide,2,Other,1
+2017-02-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,3
+2017-02-01,Systemwide,Systemwide,2,Signals,1
+2017-02-01,Systemwide,Systemwide,2,Track,1
+2017-03-01,A DIVISION,1,1,Other,1
+2017-03-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2017-03-01,A DIVISION,1,1,Signals,2
+2017-03-01,A DIVISION,1,2,Signals,1
+2017-03-01,A DIVISION,2,1,Other,1
+2017-03-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2017-03-01,A DIVISION,2,1,Signals,2
+2017-03-01,A DIVISION,2,1,Track,1
+2017-03-01,A DIVISION,2,2,Other,1
+2017-03-01,A DIVISION,3,1,Signals,1
+2017-03-01,A DIVISION,3,1,Track,3
+2017-03-01,A DIVISION,3,2,Other,1
+2017-03-01,A DIVISION,3,2,Other,2
+2017-03-01,A DIVISION,4,1,Other,1
+2017-03-01,A DIVISION,4,1,Signals,1
+2017-03-01,A DIVISION,4,1,Stations and Structure,2
+2017-03-01,A DIVISION,5,1,Other,2
+2017-03-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2017-03-01,A DIVISION,5,1,Signals,2
+2017-03-01,A DIVISION,5,1,Track,1
+2017-03-01,A DIVISION,5,2,Other,1
+2017-03-01,A DIVISION,6,1,Other,1
+2017-03-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,4
+2017-03-01,A DIVISION,6,1,Signals,2
+2017-03-01,A DIVISION,6,1,Subway Car,1
+2017-03-01,A DIVISION,6,1,Track,1
+2017-03-01,A DIVISION,7,1,Other,1
+2017-03-01,A DIVISION,7,1,Signals,3
+2017-03-01,A DIVISION,7,1,Stations and Structure,2
+2017-03-01,A DIVISION,7,1,Subway Car,1
+2017-03-01,B DIVISION,A,1,Other,1
+2017-03-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2017-03-01,B DIVISION,A,1,Stations and Structure,2
+2017-03-01,B DIVISION,A,1,Track,1
+2017-03-01,B DIVISION,A,2,Signals,1
+2017-03-01,B DIVISION,B,1,Persons on Trackbed/Police/Medical,2
+2017-03-01,B DIVISION,B,1,Signals,1
+2017-03-01,B DIVISION,C,1,Stations and Structure,1
+2017-03-01,B DIVISION,D,1,Other,1
+2017-03-01,B DIVISION,D,1,Signals,2
+2017-03-01,B DIVISION,D,2,Persons on Trackbed/Police/Medical,1
+2017-03-01,B DIVISION,E,1,Other,1
+2017-03-01,B DIVISION,E,1,Track,2
+2017-03-01,B DIVISION,F,1,Other,2
+2017-03-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,4
+2017-03-01,B DIVISION,F,1,Subway Car,2
+2017-03-01,B DIVISION,F,1,Track,1
+2017-03-01,B DIVISION,G,1,Signals,1
+2017-03-01,B DIVISION,M,1,Signals,1
+2017-03-01,B DIVISION,M,1,Subway Car,1
+2017-03-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2017-03-01,B DIVISION,N,1,Signals,2
+2017-03-01,B DIVISION,N,1,Track,5
+2017-03-01,B DIVISION,Q,1,Other,1
+2017-03-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,1
+2017-03-01,B DIVISION,Q,1,Signals,2
+2017-03-01,B DIVISION,R,1,Other,2
+2017-03-01,Systemwide,Systemwide,1,Other,15
+2017-03-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,16
+2017-03-01,Systemwide,Systemwide,1,Signals,22
+2017-03-01,Systemwide,Systemwide,1,Stations and Structure,7
+2017-03-01,Systemwide,Systemwide,1,Subway Car,5
+2017-03-01,Systemwide,Systemwide,1,Track,15
+2017-03-01,Systemwide,Systemwide,2,Other,5
+2017-03-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2017-03-01,Systemwide,Systemwide,2,Signals,2
+2017-04-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2017-04-01,A DIVISION,1,1,Stations and Structure,1
+2017-04-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2017-04-01,A DIVISION,2,1,Signals,2
+2017-04-01,A DIVISION,2,1,Stations and Structure,1
+2017-04-01,A DIVISION,4,1,Other,3
+2017-04-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,1
+2017-04-01,A DIVISION,4,1,Signals,1
+2017-04-01,A DIVISION,4,1,Subway Car,1
+2017-04-01,A DIVISION,4,2,Signals,3
+2017-04-01,A DIVISION,5,1,Other,1
+2017-04-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,3
+2017-04-01,A DIVISION,5,1,Signals,1
+2017-04-01,A DIVISION,5,1,Track,3
+2017-04-01,A DIVISION,6,1,Other,2
+2017-04-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,2
+2017-04-01,A DIVISION,6,1,Signals,4
+2017-04-01,A DIVISION,6,1,Stations and Structure,1
+2017-04-01,A DIVISION,6,1,Track,1
+2017-04-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,1
+2017-04-01,A DIVISION,7,1,Signals,4
+2017-04-01,A DIVISION,7,1,Stations and Structure,1
+2017-04-01,A DIVISION,7,1,Track,2
+2017-04-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2017-04-01,B DIVISION,A,1,Signals,2
+2017-04-01,B DIVISION,B,1,Signals,1
+2017-04-01,B DIVISION,B,1,Stations and Structure,1
+2017-04-01,B DIVISION,B,1,Track,1
+2017-04-01,B DIVISION,D,1,Other,1
+2017-04-01,B DIVISION,D,1,Signals,2
+2017-04-01,B DIVISION,D,1,Track,1
+2017-04-01,B DIVISION,E,1,Stations and Structure,1
+2017-04-01,B DIVISION,E,1,Track,1
+2017-04-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2017-04-01,B DIVISION,F,1,Signals,1
+2017-04-01,B DIVISION,F,2,Subway Car,1
+2017-04-01,B DIVISION,JZ,1,Persons on Trackbed/Police/Medical,1
+2017-04-01,B DIVISION,L,2,Other,1
+2017-04-01,B DIVISION,M,1,Other,1
+2017-04-01,B DIVISION,M,1,Signals,1
+2017-04-01,B DIVISION,M,1,Subway Car,1
+2017-04-01,B DIVISION,M,1,Track,2
+2017-04-01,B DIVISION,M,2,Other,1
+2017-04-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2017-04-01,B DIVISION,N,1,Signals,2
+2017-04-01,B DIVISION,N,1,Track,1
+2017-04-01,B DIVISION,N,2,Signals,1
+2017-04-01,B DIVISION,Q,1,Signals,1
+2017-04-01,B DIVISION,Q,1,Subway Car,1
+2017-04-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,1
+2017-04-01,B DIVISION,R,1,Signals,3
+2017-04-01,B DIVISION,W,1,Subway Car,1
+2017-04-01,Systemwide,Systemwide,1,Other,8
+2017-04-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,14
+2017-04-01,Systemwide,Systemwide,1,Signals,25
+2017-04-01,Systemwide,Systemwide,1,Stations and Structure,6
+2017-04-01,Systemwide,Systemwide,1,Subway Car,4
+2017-04-01,Systemwide,Systemwide,1,Track,12
+2017-04-01,Systemwide,Systemwide,2,Other,2
+2017-04-01,Systemwide,Systemwide,2,Signals,4
+2017-04-01,Systemwide,Systemwide,2,Subway Car,1
+2017-05-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,2
+2017-05-01,A DIVISION,1,1,Signals,4
+2017-05-01,A DIVISION,2,1,Other,2
+2017-05-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2017-05-01,A DIVISION,2,1,Signals,2
+2017-05-01,A DIVISION,2,1,Track,1
+2017-05-01,A DIVISION,3,1,Other,1
+2017-05-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,1
+2017-05-01,A DIVISION,3,1,Stations and Structure,2
+2017-05-01,A DIVISION,3,2,Other,1
+2017-05-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2017-05-01,A DIVISION,4,1,Signals,1
+2017-05-01,A DIVISION,4,1,Stations and Structure,1
+2017-05-01,A DIVISION,4,1,Subway Car,1
+2017-05-01,A DIVISION,4,1,Track,2
+2017-05-01,A DIVISION,4,2,Signals,1
+2017-05-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2017-05-01,A DIVISION,5,1,Signals,3
+2017-05-01,A DIVISION,5,1,Track,1
+2017-05-01,A DIVISION,6,1,Other,1
+2017-05-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,3
+2017-05-01,A DIVISION,6,1,Subway Car,2
+2017-05-01,A DIVISION,6,1,Track,1
+2017-05-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,2
+2017-05-01,A DIVISION,7,1,Signals,1
+2017-05-01,A DIVISION,7,2,Signals,1
+2017-05-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,2
+2017-05-01,B DIVISION,A,1,Signals,2
+2017-05-01,B DIVISION,B,1,Other,1
+2017-05-01,B DIVISION,B,1,Signals,1
+2017-05-01,B DIVISION,C,1,Signals,1
+2017-05-01,B DIVISION,C,2,Track,1
+2017-05-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2017-05-01,B DIVISION,E,1,Signals,1
+2017-05-01,B DIVISION,E,1,Stations and Structure,4
+2017-05-01,B DIVISION,E,1,Track,1
+2017-05-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,3
+2017-05-01,B DIVISION,F,1,Signals,3
+2017-05-01,B DIVISION,F,1,Stations and Structure,1
+2017-05-01,B DIVISION,F,1,Subway Car,1
+2017-05-01,B DIVISION,F,1,Track,2
+2017-05-01,B DIVISION,F,2,Stations and Structure,1
+2017-05-01,B DIVISION,G,1,Signals,1
+2017-05-01,B DIVISION,JZ,1,Stations and Structure,1
+2017-05-01,B DIVISION,L,1,Track,1
+2017-05-01,B DIVISION,M,1,Persons on Trackbed/Police/Medical,1
+2017-05-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,2
+2017-05-01,B DIVISION,N,1,Signals,3
+2017-05-01,B DIVISION,N,2,Signals,1
+2017-05-01,B DIVISION,Q,2,Other,1
+2017-05-01,B DIVISION,R,1,Signals,2
+2017-05-01,B DIVISION,R,1,Subway Car,2
+2017-05-01,Systemwide,Systemwide,1,Other,5
+2017-05-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,21
+2017-05-01,Systemwide,Systemwide,1,Signals,25
+2017-05-01,Systemwide,Systemwide,1,Stations and Structure,9
+2017-05-01,Systemwide,Systemwide,1,Subway Car,6
+2017-05-01,Systemwide,Systemwide,1,Track,9
+2017-05-01,Systemwide,Systemwide,2,Other,2
+2017-05-01,Systemwide,Systemwide,2,Signals,3
+2017-05-01,Systemwide,Systemwide,2,Stations and Structure,1
+2017-05-01,Systemwide,Systemwide,2,Track,1
+2017-06-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,2
+2017-06-01,A DIVISION,1,1,Signals,2
+2017-06-01,A DIVISION,1,1,Stations and Structure,1
+2017-06-01,A DIVISION,1,1,Track,1
+2017-06-01,A DIVISION,2,1,Other,2
+2017-06-01,A DIVISION,2,1,Subway Car,1
+2017-06-01,A DIVISION,2,1,Track,1
+2017-06-01,A DIVISION,2,2,Signals,1
+2017-06-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,2
+2017-06-01,A DIVISION,3,1,Signals,1
+2017-06-01,A DIVISION,3,1,Stations and Structure,1
+2017-06-01,A DIVISION,3,1,Track,1
+2017-06-01,A DIVISION,4,1,Other,1
+2017-06-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2017-06-01,A DIVISION,4,1,Signals,2
+2017-06-01,A DIVISION,4,1,Stations and Structure,1
+2017-06-01,A DIVISION,4,1,Subway Car,1
+2017-06-01,A DIVISION,4,2,Other,1
+2017-06-01,A DIVISION,5,1,Other,1
+2017-06-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2017-06-01,A DIVISION,5,1,Signals,2
+2017-06-01,A DIVISION,5,1,Subway Car,1
+2017-06-01,A DIVISION,6,1,Other,1
+2017-06-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,2
+2017-06-01,A DIVISION,6,1,Signals,1
+2017-06-01,A DIVISION,6,1,Stations and Structure,1
+2017-06-01,A DIVISION,7,1,Other,1
+2017-06-01,A DIVISION,7,1,Signals,2
+2017-06-01,A DIVISION,7,1,Track,2
+2017-06-01,B DIVISION,A,1,Other,1
+2017-06-01,B DIVISION,A,1,Signals,2
+2017-06-01,B DIVISION,A,1,Stations and Structure,1
+2017-06-01,B DIVISION,B,1,Signals,1
+2017-06-01,B DIVISION,C,1,Signals,3
+2017-06-01,B DIVISION,C,1,Stations and Structure,1
+2017-06-01,B DIVISION,C,2,Signals,1
+2017-06-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2017-06-01,B DIVISION,D,1,Signals,1
+2017-06-01,B DIVISION,D,1,Track,2
+2017-06-01,B DIVISION,E,1,Signals,3
+2017-06-01,B DIVISION,E,1,Stations and Structure,1
+2017-06-01,B DIVISION,E,1,Track,2
+2017-06-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,2
+2017-06-01,B DIVISION,F,1,Signals,4
+2017-06-01,B DIVISION,F,1,Stations and Structure,2
+2017-06-01,B DIVISION,F,1,Subway Car,1
+2017-06-01,B DIVISION,F,1,Track,3
+2017-06-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2017-06-01,B DIVISION,N,1,Subway Car,1
+2017-06-01,B DIVISION,N,1,Track,4
+2017-06-01,B DIVISION,Q,1,Other,1
+2017-06-01,B DIVISION,Q,1,Subway Car,1
+2017-06-01,B DIVISION,Q,1,Track,1
+2017-06-01,B DIVISION,R,1,Other,1
+2017-06-01,B DIVISION,R,1,Signals,1
+2017-06-01,B DIVISION,R,1,Track,1
+2017-06-01,B DIVISION,R,2,Subway Car,1
+2017-06-01,B DIVISION,W,1,Track,1
+2017-06-01,Systemwide,Systemwide,1,Other,9
+2017-06-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,13
+2017-06-01,Systemwide,Systemwide,1,Signals,25
+2017-06-01,Systemwide,Systemwide,1,Stations and Structure,9
+2017-06-01,Systemwide,Systemwide,1,Subway Car,6
+2017-06-01,Systemwide,Systemwide,1,Track,19
+2017-06-01,Systemwide,Systemwide,2,Other,1
+2017-06-01,Systemwide,Systemwide,2,Signals,2
+2017-06-01,Systemwide,Systemwide,2,Subway Car,1
+2017-07-01,A DIVISION,1,1,Other,1
+2017-07-01,A DIVISION,1,1,Signals,2
+2017-07-01,A DIVISION,1,1,Subway Car,1
+2017-07-01,A DIVISION,1,1,Track,1
+2017-07-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2017-07-01,A DIVISION,2,1,Signals,1
+2017-07-01,A DIVISION,2,2,Track,1
+2017-07-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,1
+2017-07-01,A DIVISION,3,1,Track,1
+2017-07-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,5
+2017-07-01,A DIVISION,4,1,Signals,3
+2017-07-01,A DIVISION,4,1,Track,1
+2017-07-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,2
+2017-07-01,A DIVISION,5,1,Track,1
+2017-07-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,1
+2017-07-01,A DIVISION,6,1,Subway Car,1
+2017-07-01,A DIVISION,7,1,Other,1
+2017-07-01,A DIVISION,7,1,Signals,3
+2017-07-01,A DIVISION,7,1,Subway Car,1
+2017-07-01,A DIVISION,7,1,Track,1
+2017-07-01,A DIVISION,7,2,Other,1
+2017-07-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2017-07-01,B DIVISION,A,1,Signals,1
+2017-07-01,B DIVISION,A,2,Signals,1
+2017-07-01,B DIVISION,B,1,Signals,1
+2017-07-01,B DIVISION,B,1,Track,2
+2017-07-01,B DIVISION,D,1,Signals,1
+2017-07-01,B DIVISION,D,2,Persons on Trackbed/Police/Medical,1
+2017-07-01,B DIVISION,E,1,Other,1
+2017-07-01,B DIVISION,E,1,Signals,2
+2017-07-01,B DIVISION,E,2,Signals,1
+2017-07-01,B DIVISION,F,1,Other,1
+2017-07-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,2
+2017-07-01,B DIVISION,F,1,Signals,2
+2017-07-01,B DIVISION,F,1,Stations and Structure,1
+2017-07-01,B DIVISION,JZ,1,Track,1
+2017-07-01,B DIVISION,N,1,Signals,1
+2017-07-01,B DIVISION,N,1,Stations and Structure,1
+2017-07-01,B DIVISION,N,1,Track,1
+2017-07-01,B DIVISION,Q,1,Other,1
+2017-07-01,B DIVISION,Q,1,Signals,1
+2017-07-01,B DIVISION,Q,1,Subway Car,1
+2017-07-01,B DIVISION,R,1,Other,2
+2017-07-01,B DIVISION,R,1,Subway Car,1
+2017-07-01,Systemwide,Systemwide,1,Other,7
+2017-07-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,13
+2017-07-01,Systemwide,Systemwide,1,Signals,18
+2017-07-01,Systemwide,Systemwide,1,Stations and Structure,2
+2017-07-01,Systemwide,Systemwide,1,Subway Car,5
+2017-07-01,Systemwide,Systemwide,1,Track,9
+2017-07-01,Systemwide,Systemwide,2,Other,1
+2017-07-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2017-07-01,Systemwide,Systemwide,2,Signals,2
+2017-07-01,Systemwide,Systemwide,2,Track,1
+2017-08-01,A DIVISION,1,1,Signals,1
+2017-08-01,A DIVISION,2,1,Other,2
+2017-08-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2017-08-01,A DIVISION,2,1,Subway Car,2
+2017-08-01,A DIVISION,2,1,Track,1
+2017-08-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,1
+2017-08-01,A DIVISION,3,1,Track,2
+2017-08-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,1
+2017-08-01,A DIVISION,4,1,Signals,2
+2017-08-01,A DIVISION,4,1,Track,1
+2017-08-01,A DIVISION,4,2,Persons on Trackbed/Police/Medical,2
+2017-08-01,A DIVISION,4,2,Signals,1
+2017-08-01,A DIVISION,4,2,Track,1
+2017-08-01,A DIVISION,5,1,Stations and Structure,1
+2017-08-01,A DIVISION,6,1,Other,1
+2017-08-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,4
+2017-08-01,A DIVISION,6,1,Signals,1
+2017-08-01,A DIVISION,6,1,Track,2
+2017-08-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,1
+2017-08-01,A DIVISION,7,1,Signals,2
+2017-08-01,A DIVISION,7,1,Track,2
+2017-08-01,B DIVISION,A,1,Signals,4
+2017-08-01,B DIVISION,A,1,Track,1
+2017-08-01,B DIVISION,A,2,Other,1
+2017-08-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2017-08-01,B DIVISION,D,1,Track,1
+2017-08-01,B DIVISION,D,2,Other,1
+2017-08-01,B DIVISION,E,1,Signals,2
+2017-08-01,B DIVISION,E,1,Stations and Structure,1
+2017-08-01,B DIVISION,E,1,Track,1
+2017-08-01,B DIVISION,F,1,Signals,5
+2017-08-01,B DIVISION,F,1,Stations and Structure,1
+2017-08-01,B DIVISION,F,1,Track,1
+2017-08-01,B DIVISION,L,1,Persons on Trackbed/Police/Medical,2
+2017-08-01,B DIVISION,M,1,Persons on Trackbed/Police/Medical,2
+2017-08-01,B DIVISION,M,2,Track,1
+2017-08-01,B DIVISION,N,1,Signals,2
+2017-08-01,B DIVISION,N,1,Track,1
+2017-08-01,B DIVISION,Q,1,Other,1
+2017-08-01,B DIVISION,Q,1,Track,1
+2017-08-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,2
+2017-08-01,B DIVISION,R,1,Stations and Structure,1
+2017-08-01,B DIVISION,R,1,Subway Car,1
+2017-08-01,B DIVISION,R,1,Track,3
+2017-08-01,B DIVISION,W,1,Subway Car,1
+2017-08-01,Systemwide,Systemwide,1,Other,4
+2017-08-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,15
+2017-08-01,Systemwide,Systemwide,1,Signals,19
+2017-08-01,Systemwide,Systemwide,1,Stations and Structure,4
+2017-08-01,Systemwide,Systemwide,1,Subway Car,4
+2017-08-01,Systemwide,Systemwide,1,Track,17
+2017-08-01,Systemwide,Systemwide,2,Other,2
+2017-08-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,2
+2017-08-01,Systemwide,Systemwide,2,Signals,1
+2017-08-01,Systemwide,Systemwide,2,Track,2
+2017-09-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2017-09-01,A DIVISION,1,1,Signals,1
+2017-09-01,A DIVISION,1,1,Track,3
+2017-09-01,A DIVISION,1,2,Signals,1
+2017-09-01,A DIVISION,2,1,Signals,1
+2017-09-01,A DIVISION,2,1,Subway Car,1
+2017-09-01,A DIVISION,2,1,Track,4
+2017-09-01,A DIVISION,3,1,Signals,2
+2017-09-01,A DIVISION,3,1,Track,1
+2017-09-01,A DIVISION,4,1,Stations and Structure,1
+2017-09-01,A DIVISION,4,2,Other,2
+2017-09-01,A DIVISION,4,2,Signals,1
+2017-09-01,A DIVISION,5,1,Other,2
+2017-09-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,2
+2017-09-01,A DIVISION,5,1,Signals,4
+2017-09-01,A DIVISION,5,1,Stations and Structure,1
+2017-09-01,A DIVISION,5,1,Track,1
+2017-09-01,A DIVISION,5,2,Persons on Trackbed/Police/Medical,1
+2017-09-01,A DIVISION,6,1,Other,1
+2017-09-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,1
+2017-09-01,A DIVISION,6,1,Signals,1
+2017-09-01,A DIVISION,6,1,Subway Car,1
+2017-09-01,A DIVISION,6,1,Track,2
+2017-09-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,3
+2017-09-01,A DIVISION,7,1,Signals,2
+2017-09-01,A DIVISION,7,1,Track,2
+2017-09-01,B DIVISION,A,1,Signals,1
+2017-09-01,B DIVISION,B,1,Signals,1
+2017-09-01,B DIVISION,B,1,Subway Car,1
+2017-09-01,B DIVISION,B,1,Track,2
+2017-09-01,B DIVISION,C,1,Persons on Trackbed/Police/Medical,1
+2017-09-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2017-09-01,B DIVISION,E,1,Signals,4
+2017-09-01,B DIVISION,E,1,Stations and Structure,1
+2017-09-01,B DIVISION,E,1,Subway Car,1
+2017-09-01,B DIVISION,E,1,Track,1
+2017-09-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,4
+2017-09-01,B DIVISION,F,1,Track,1
+2017-09-01,B DIVISION,F,2,Other,1
+2017-09-01,B DIVISION,L,1,Persons on Trackbed/Police/Medical,1
+2017-09-01,B DIVISION,L,1,Subway Car,1
+2017-09-01,B DIVISION,L,2,Track,1
+2017-09-01,B DIVISION,M,1,Stations and Structure,1
+2017-09-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2017-09-01,B DIVISION,N,1,Track,2
+2017-09-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,1
+2017-09-01,B DIVISION,Q,1,Signals,1
+2017-09-01,B DIVISION,Q,1,Subway Car,1
+2017-09-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,2
+2017-09-01,B DIVISION,R,1,Signals,1
+2017-09-01,Systemwide,Systemwide,1,Other,3
+2017-09-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,18
+2017-09-01,Systemwide,Systemwide,1,Signals,19
+2017-09-01,Systemwide,Systemwide,1,Stations and Structure,4
+2017-09-01,Systemwide,Systemwide,1,Subway Car,6
+2017-09-01,Systemwide,Systemwide,1,Track,19
+2017-09-01,Systemwide,Systemwide,2,Other,3
+2017-09-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2017-09-01,Systemwide,Systemwide,2,Signals,2
+2017-09-01,Systemwide,Systemwide,2,Track,1
+2017-10-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2017-10-01,A DIVISION,1,1,Signals,2
+2017-10-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2017-10-01,A DIVISION,2,1,Signals,1
+2017-10-01,A DIVISION,2,1,Track,2
+2017-10-01,A DIVISION,2,2,Signals,1
+2017-10-01,A DIVISION,3,2,Track,1
+2017-10-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,1
+2017-10-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,2
+2017-10-01,A DIVISION,5,1,Signals,1
+2017-10-01,A DIVISION,5,1,Track,1
+2017-10-01,A DIVISION,5,2,Track,1
+2017-10-01,A DIVISION,6,1,Other,1
+2017-10-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,3
+2017-10-01,A DIVISION,6,1,Track,1
+2017-10-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,1
+2017-10-01,A DIVISION,7,1,Signals,3
+2017-10-01,A DIVISION,7,1,Stations and Structure,1
+2017-10-01,A DIVISION,7,1,Subway Car,2
+2017-10-01,A DIVISION,7,1,Track,4
+2017-10-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2017-10-01,B DIVISION,A,1,Signals,2
+2017-10-01,B DIVISION,A,1,Subway Car,1
+2017-10-01,B DIVISION,A,1,Track,1
+2017-10-01,B DIVISION,B,1,Persons on Trackbed/Police/Medical,1
+2017-10-01,B DIVISION,B,1,Track,1
+2017-10-01,B DIVISION,C,1,Persons on Trackbed/Police/Medical,1
+2017-10-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2017-10-01,B DIVISION,D,1,Signals,1
+2017-10-01,B DIVISION,D,2,Other,1
+2017-10-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,1
+2017-10-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2017-10-01,B DIVISION,F,1,Signals,1
+2017-10-01,B DIVISION,F,1,Subway Car,2
+2017-10-01,B DIVISION,F,1,Track,2
+2017-10-01,B DIVISION,F,2,Stations and Structure,1
+2017-10-01,B DIVISION,JZ,1,Persons on Trackbed/Police/Medical,1
+2017-10-01,B DIVISION,L,1,Signals,1
+2017-10-01,B DIVISION,L,2,Signals,1
+2017-10-01,B DIVISION,L,2,Track,1
+2017-10-01,B DIVISION,M,1,Signals,2
+2017-10-01,B DIVISION,M,1,Stations and Structure,1
+2017-10-01,B DIVISION,M,1,Track,1
+2017-10-01,B DIVISION,N,1,Signals,1
+2017-10-01,B DIVISION,N,1,Track,1
+2017-10-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,2
+2017-10-01,B DIVISION,Q,1,Signals,1
+2017-10-01,B DIVISION,Q,1,Subway Car,1
+2017-10-01,B DIVISION,Q,1,Track,3
+2017-10-01,B DIVISION,R,1,Other,1
+2017-10-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,1
+2017-10-01,B DIVISION,R,1,Stations and Structure,1
+2017-10-01,B DIVISION,R,1,Track,1
+2017-10-01,Systemwide,Systemwide,1,Other,2
+2017-10-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,19
+2017-10-01,Systemwide,Systemwide,1,Signals,16
+2017-10-01,Systemwide,Systemwide,1,Stations and Structure,3
+2017-10-01,Systemwide,Systemwide,1,Subway Car,6
+2017-10-01,Systemwide,Systemwide,1,Track,18
+2017-10-01,Systemwide,Systemwide,2,Other,1
+2017-10-01,Systemwide,Systemwide,2,Signals,2
+2017-10-01,Systemwide,Systemwide,2,Stations and Structure,1
+2017-10-01,Systemwide,Systemwide,2,Track,3
+2017-11-01,A DIVISION,1,1,Track,1
+2017-11-01,A DIVISION,1,2,Other,1
+2017-11-01,A DIVISION,2,1,Other,1
+2017-11-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2017-11-01,A DIVISION,2,1,Signals,1
+2017-11-01,A DIVISION,2,1,Stations and Structure,1
+2017-11-01,A DIVISION,2,2,Signals,1
+2017-11-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,2
+2017-11-01,A DIVISION,3,1,Signals,1
+2017-11-01,A DIVISION,3,1,Track,2
+2017-11-01,A DIVISION,4,1,Other,1
+2017-11-01,A DIVISION,4,1,Signals,1
+2017-11-01,A DIVISION,4,1,Track,2
+2017-11-01,A DIVISION,4,2,Persons on Trackbed/Police/Medical,1
+2017-11-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2017-11-01,A DIVISION,5,1,Signals,3
+2017-11-01,A DIVISION,5,1,Track,1
+2017-11-01,A DIVISION,6,1,Other,1
+2017-11-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,3
+2017-11-01,A DIVISION,6,1,Signals,1
+2017-11-01,A DIVISION,6,1,Track,2
+2017-11-01,A DIVISION,6,2,Signals,1
+2017-11-01,A DIVISION,7,1,Other,1
+2017-11-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,1
+2017-11-01,A DIVISION,7,1,Signals,1
+2017-11-01,A DIVISION,7,1,Stations and Structure,2
+2017-11-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2017-11-01,B DIVISION,B,1,Track,1
+2017-11-01,B DIVISION,C,2,Signals,1
+2017-11-01,B DIVISION,D,1,Signals,2
+2017-11-01,B DIVISION,E,1,Signals,1
+2017-11-01,B DIVISION,E,2,Track,1
+2017-11-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2017-11-01,B DIVISION,F,1,Signals,1
+2017-11-01,B DIVISION,F,1,Track,1
+2017-11-01,B DIVISION,G,1,Track,1
+2017-11-01,B DIVISION,JZ,1,Subway Car,1
+2017-11-01,B DIVISION,L,2,Persons on Trackbed/Police/Medical,1
+2017-11-01,B DIVISION,M,1,Signals,2
+2017-11-01,B DIVISION,M,1,Track,1
+2017-11-01,B DIVISION,N,1,Signals,3
+2017-11-01,B DIVISION,N,1,Stations and Structure,1
+2017-11-01,B DIVISION,N,1,Track,3
+2017-11-01,B DIVISION,R,1,Track,2
+2017-11-01,B DIVISION,R,2,Signals,1
+2017-11-01,Systemwide,Systemwide,1,Other,4
+2017-11-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,10
+2017-11-01,Systemwide,Systemwide,1,Signals,17
+2017-11-01,Systemwide,Systemwide,1,Stations and Structure,4
+2017-11-01,Systemwide,Systemwide,1,Subway Car,1
+2017-11-01,Systemwide,Systemwide,1,Track,17
+2017-11-01,Systemwide,Systemwide,2,Other,1
+2017-11-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,2
+2017-11-01,Systemwide,Systemwide,2,Signals,4
+2017-11-01,Systemwide,Systemwide,2,Track,1
+2017-12-01,A DIVISION,2,2,Signals,2
+2017-12-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,2
+2017-12-01,A DIVISION,3,1,Stations and Structure,1
+2017-12-01,A DIVISION,3,2,Track,1
+2017-12-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,1
+2017-12-01,A DIVISION,4,1,Signals,1
+2017-12-01,A DIVISION,5,1,Other,1
+2017-12-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,2
+2017-12-01,A DIVISION,5,1,Signals,4
+2017-12-01,A DIVISION,5,1,Track,1
+2017-12-01,A DIVISION,6,1,Signals,2
+2017-12-01,A DIVISION,6,1,Track,1
+2017-12-01,A DIVISION,7,1,Other,1
+2017-12-01,A DIVISION,7,1,Signals,3
+2017-12-01,A DIVISION,7,1,Track,1
+2017-12-01,A DIVISION,7,2,Other,1
+2017-12-01,B DIVISION,A,1,Signals,1
+2017-12-01,B DIVISION,B,1,Signals,1
+2017-12-01,B DIVISION,B,1,Stations and Structure,1
+2017-12-01,B DIVISION,C,1,Other,1
+2017-12-01,B DIVISION,C,1,Persons on Trackbed/Police/Medical,1
+2017-12-01,B DIVISION,C,1,Signals,2
+2017-12-01,B DIVISION,C,2,Persons on Trackbed/Police/Medical,1
+2017-12-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2017-12-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,1
+2017-12-01,B DIVISION,E,2,Other,1
+2017-12-01,B DIVISION,E,2,Signals,1
+2017-12-01,B DIVISION,F,1,Signals,1
+2017-12-01,B DIVISION,F,1,Stations and Structure,2
+2017-12-01,B DIVISION,F,1,Track,2
+2017-12-01,B DIVISION,F,2,Stations and Structure,1
+2017-12-01,B DIVISION,F,2,Track,1
+2017-12-01,B DIVISION,JZ,1,Persons on Trackbed/Police/Medical,1
+2017-12-01,B DIVISION,JZ,1,Signals,1
+2017-12-01,B DIVISION,JZ,2,Other,1
+2017-12-01,B DIVISION,L,1,Signals,1
+2017-12-01,B DIVISION,L,2,Persons on Trackbed/Police/Medical,1
+2017-12-01,B DIVISION,L,2,Signals,1
+2017-12-01,B DIVISION,M,1,Other,1
+2017-12-01,B DIVISION,M,1,Signals,3
+2017-12-01,B DIVISION,M,1,Subway Car,1
+2017-12-01,B DIVISION,N,1,Signals,1
+2017-12-01,B DIVISION,N,2,Signals,1
+2017-12-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,1
+2017-12-01,B DIVISION,Q,1,Signals,2
+2017-12-01,B DIVISION,Q,1,Track,2
+2017-12-01,B DIVISION,R,1,Subway Car,1
+2017-12-01,Systemwide,Systemwide,1,Other,4
+2017-12-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,10
+2017-12-01,Systemwide,Systemwide,1,Signals,23
+2017-12-01,Systemwide,Systemwide,1,Stations and Structure,4
+2017-12-01,Systemwide,Systemwide,1,Subway Car,2
+2017-12-01,Systemwide,Systemwide,1,Track,7
+2017-12-01,Systemwide,Systemwide,2,Other,3
+2017-12-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,2
+2017-12-01,Systemwide,Systemwide,2,Signals,5
+2017-12-01,Systemwide,Systemwide,2,Stations and Structure,1
+2017-12-01,Systemwide,Systemwide,2,Track,2
+2018-01-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,4
+2018-01-01,A DIVISION,2,1,Signals,1
+2018-01-01,A DIVISION,2,1,Stations and Structure,1
+2018-01-01,A DIVISION,2,1,Subway Car,1
+2018-01-01,A DIVISION,2,1,Track,2
+2018-01-01,A DIVISION,2,2,Other,1
+2018-01-01,A DIVISION,2,2,Persons on Trackbed/Police/Medical,1
+2018-01-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,2
+2018-01-01,A DIVISION,3,1,Stations and Structure,3
+2018-01-01,A DIVISION,3,1,Track,1
+2018-01-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,1
+2018-01-01,A DIVISION,4,1,Signals,1
+2018-01-01,A DIVISION,4,1,Track,1
+2018-01-01,A DIVISION,4,2,Other,1
+2018-01-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2018-01-01,A DIVISION,5,1,Signals,3
+2018-01-01,A DIVISION,5,1,Track,2
+2018-01-01,A DIVISION,5,2,Other,1
+2018-01-01,A DIVISION,6,1,Other,1
+2018-01-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,3
+2018-01-01,A DIVISION,6,1,Signals,1
+2018-01-01,A DIVISION,6,1,Stations and Structure,1
+2018-01-01,A DIVISION,6,1,Track,5
+2018-01-01,A DIVISION,6,2,Other,1
+2018-01-01,A DIVISION,7,1,Other,4
+2018-01-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,3
+2018-01-01,A DIVISION,7,1,Signals,4
+2018-01-01,A DIVISION,7,1,Stations and Structure,2
+2018-01-01,A DIVISION,7,1,Track,1
+2018-01-01,B DIVISION,A,1,Other,1
+2018-01-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2018-01-01,B DIVISION,A,1,Signals,1
+2018-01-01,B DIVISION,B,1,Signals,1
+2018-01-01,B DIVISION,B,1,Stations and Structure,1
+2018-01-01,B DIVISION,C,1,Other,2
+2018-01-01,B DIVISION,C,1,Stations and Structure,1
+2018-01-01,B DIVISION,C,2,Stations and Structure,1
+2018-01-01,B DIVISION,D,1,Signals,1
+2018-01-01,B DIVISION,D,1,Stations and Structure,2
+2018-01-01,B DIVISION,D,1,Track,3
+2018-01-01,B DIVISION,E,1,Other,1
+2018-01-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,1
+2018-01-01,B DIVISION,E,1,Signals,1
+2018-01-01,B DIVISION,E,2,Other,1
+2018-01-01,B DIVISION,F,1,Other,2
+2018-01-01,B DIVISION,F,1,Signals,1
+2018-01-01,B DIVISION,F,1,Track,2
+2018-01-01,B DIVISION,F,2,Other,1
+2018-01-01,B DIVISION,F,2,Stations and Structure,1
+2018-01-01,B DIVISION,F,2,Track,1
+2018-01-01,B DIVISION,G,1,Other,1
+2018-01-01,B DIVISION,JZ,1,Other,1
+2018-01-01,B DIVISION,JZ,1,Signals,2
+2018-01-01,B DIVISION,L,1,Other,5
+2018-01-01,B DIVISION,L,1,Persons on Trackbed/Police/Medical,3
+2018-01-01,B DIVISION,L,1,Signals,1
+2018-01-01,B DIVISION,M,1,Other,2
+2018-01-01,B DIVISION,N,1,Other,3
+2018-01-01,B DIVISION,N,1,Signals,2
+2018-01-01,B DIVISION,N,1,Stations and Structure,1
+2018-01-01,B DIVISION,N,1,Subway Car,2
+2018-01-01,B DIVISION,N,1,Track,2
+2018-01-01,B DIVISION,N,2,Other,1
+2018-01-01,B DIVISION,N,2,Signals,1
+2018-01-01,B DIVISION,N,2,Track,1
+2018-01-01,B DIVISION,Q,1,Other,1
+2018-01-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,1
+2018-01-01,B DIVISION,Q,1,Track,1
+2018-01-01,B DIVISION,Q,2,Signals,1
+2018-01-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,3
+2018-01-01,B DIVISION,R,1,Signals,1
+2018-01-01,B DIVISION,R,1,Stations and Structure,1
+2018-01-01,B DIVISION,R,1,Subway Car,1
+2018-01-01,Systemwide,Systemwide,1,Other,24
+2018-01-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,23
+2018-01-01,Systemwide,Systemwide,1,Signals,21
+2018-01-01,Systemwide,Systemwide,1,Stations and Structure,13
+2018-01-01,Systemwide,Systemwide,1,Subway Car,4
+2018-01-01,Systemwide,Systemwide,1,Track,20
+2018-01-01,Systemwide,Systemwide,2,Other,7
+2018-01-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2018-01-01,Systemwide,Systemwide,2,Signals,2
+2018-01-01,Systemwide,Systemwide,2,Stations and Structure,2
+2018-01-01,Systemwide,Systemwide,2,Track,2
+2018-02-01,A DIVISION,1,1,Other,1
+2018-02-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2018-02-01,A DIVISION,1,2,Signals,1
+2018-02-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,2
+2018-02-01,A DIVISION,2,1,Signals,2
+2018-02-01,A DIVISION,2,1,Track,3
+2018-02-01,A DIVISION,2,2,Persons on Trackbed/Police/Medical,1
+2018-02-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,1
+2018-02-01,A DIVISION,3,1,Signals,2
+2018-02-01,A DIVISION,3,1,Track,1
+2018-02-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,3
+2018-02-01,A DIVISION,4,1,Track,2
+2018-02-01,A DIVISION,4,2,Persons on Trackbed/Police/Medical,1
+2018-02-01,A DIVISION,4,2,Track,1
+2018-02-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2018-02-01,A DIVISION,5,1,Stations and Structure,1
+2018-02-01,A DIVISION,5,2,Stations and Structure,1
+2018-02-01,A DIVISION,6,1,Other,1
+2018-02-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,1
+2018-02-01,A DIVISION,6,1,Signals,2
+2018-02-01,A DIVISION,6,1,Track,1
+2018-02-01,A DIVISION,7,1,Other,1
+2018-02-01,A DIVISION,7,1,Signals,2
+2018-02-01,B DIVISION,A,2,Persons on Trackbed/Police/Medical,1
+2018-02-01,B DIVISION,B,1,Signals,1
+2018-02-01,B DIVISION,D,1,Track,1
+2018-02-01,B DIVISION,E,1,Signals,2
+2018-02-01,B DIVISION,E,1,Track,1
+2018-02-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,2
+2018-02-01,B DIVISION,F,1,Signals,4
+2018-02-01,B DIVISION,F,1,Stations and Structure,2
+2018-02-01,B DIVISION,F,1,Track,1
+2018-02-01,B DIVISION,L,1,Other,1
+2018-02-01,B DIVISION,L,1,Persons on Trackbed/Police/Medical,2
+2018-02-01,B DIVISION,M,1,Signals,2
+2018-02-01,B DIVISION,M,1,Stations and Structure,1
+2018-02-01,B DIVISION,N,1,Signals,1
+2018-02-01,B DIVISION,N,1,Track,1
+2018-02-01,B DIVISION,Q,1,Signals,1
+2018-02-01,B DIVISION,Q,1,Track,1
+2018-02-01,B DIVISION,R,1,Other,1
+2018-02-01,B DIVISION,R,1,Signals,3
+2018-02-01,Systemwide,Systemwide,1,Other,5
+2018-02-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,13
+2018-02-01,Systemwide,Systemwide,1,Signals,22
+2018-02-01,Systemwide,Systemwide,1,Stations and Structure,4
+2018-02-01,Systemwide,Systemwide,1,Track,12
+2018-02-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,3
+2018-02-01,Systemwide,Systemwide,2,Signals,1
+2018-02-01,Systemwide,Systemwide,2,Stations and Structure,1
+2018-02-01,Systemwide,Systemwide,2,Track,1
+2018-03-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2018-03-01,A DIVISION,1,1,Track,1
+2018-03-01,A DIVISION,1,2,Other,1
+2018-03-01,A DIVISION,2,1,Other,3
+2018-03-01,A DIVISION,2,1,Signals,2
+2018-03-01,A DIVISION,2,1,Stations and Structure,1
+2018-03-01,A DIVISION,2,2,Persons on Trackbed/Police/Medical,1
+2018-03-01,A DIVISION,3,1,Signals,1
+2018-03-01,A DIVISION,3,1,Track,3
+2018-03-01,A DIVISION,4,1,Other,2
+2018-03-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,1
+2018-03-01,A DIVISION,4,1,Signals,1
+2018-03-01,A DIVISION,4,1,Subway Car,1
+2018-03-01,A DIVISION,4,2,Signals,1
+2018-03-01,A DIVISION,5,1,Other,1
+2018-03-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2018-03-01,A DIVISION,5,1,Signals,1
+2018-03-01,A DIVISION,5,2,Other,1
+2018-03-01,A DIVISION,5,2,Track,1
+2018-03-01,A DIVISION,6,1,Other,2
+2018-03-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,3
+2018-03-01,A DIVISION,6,1,Subway Car,1
+2018-03-01,A DIVISION,6,1,Track,1
+2018-03-01,A DIVISION,7,1,Other,5
+2018-03-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,3
+2018-03-01,A DIVISION,7,1,Track,3
+2018-03-01,B DIVISION,A,1,Other,4
+2018-03-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2018-03-01,B DIVISION,A,1,Signals,3
+2018-03-01,B DIVISION,C,2,Other,1
+2018-03-01,B DIVISION,D,1,Other,2
+2018-03-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2018-03-01,B DIVISION,D,1,Signals,1
+2018-03-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,1
+2018-03-01,B DIVISION,E,1,Signals,4
+2018-03-01,B DIVISION,E,2,Signals,1
+2018-03-01,B DIVISION,F,1,Other,2
+2018-03-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,2
+2018-03-01,B DIVISION,F,1,Signals,2
+2018-03-01,B DIVISION,F,1,Track,1
+2018-03-01,B DIVISION,F,2,Stations and Structure,1
+2018-03-01,B DIVISION,JZ,1,Other,2
+2018-03-01,B DIVISION,L,1,Persons on Trackbed/Police/Medical,2
+2018-03-01,B DIVISION,L,1,Subway Car,1
+2018-03-01,B DIVISION,L,1,Track,2
+2018-03-01,B DIVISION,L,2,Signals,1
+2018-03-01,B DIVISION,N,1,Other,3
+2018-03-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2018-03-01,B DIVISION,N,1,Signals,4
+2018-03-01,B DIVISION,N,1,Subway Car,1
+2018-03-01,B DIVISION,Q,1,Other,3
+2018-03-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,1
+2018-03-01,B DIVISION,R,1,Track,2
+2018-03-01,Systemwide,Systemwide,1,Other,29
+2018-03-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,18
+2018-03-01,Systemwide,Systemwide,1,Signals,19
+2018-03-01,Systemwide,Systemwide,1,Stations and Structure,1
+2018-03-01,Systemwide,Systemwide,1,Subway Car,4
+2018-03-01,Systemwide,Systemwide,1,Track,13
+2018-03-01,Systemwide,Systemwide,2,Other,3
+2018-03-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2018-03-01,Systemwide,Systemwide,2,Signals,3
+2018-03-01,Systemwide,Systemwide,2,Stations and Structure,2
+2018-03-01,Systemwide,Systemwide,2,Track,1
+2018-04-01,A DIVISION,1,1,Signals,1
+2018-04-01,A DIVISION,1,1,Track,1
+2018-04-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,2
+2018-04-01,A DIVISION,2,1,Signals,3
+2018-04-01,A DIVISION,2,1,Track,3
+2018-04-01,A DIVISION,3,1,Other,1
+2018-04-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,1
+2018-04-01,A DIVISION,3,1,Signals,1
+2018-04-01,A DIVISION,3,1,Track,1
+2018-04-01,A DIVISION,4,1,Other,2
+2018-04-01,A DIVISION,4,1,Signals,3
+2018-04-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2018-04-01,A DIVISION,5,1,Signals,1
+2018-04-01,A DIVISION,5,1,Track,1
+2018-04-01,A DIVISION,6,1,Other,3
+2018-04-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,1
+2018-04-01,A DIVISION,6,1,Track,2
+2018-04-01,A DIVISION,6,2,Signals,1
+2018-04-01,A DIVISION,7,1,Other,2
+2018-04-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,1
+2018-04-01,A DIVISION,7,1,Signals,3
+2018-04-01,A DIVISION,7,1,Stations and Structure,1
+2018-04-01,A DIVISION,7,1,Subway Car,2
+2018-04-01,A DIVISION,S 42nd,1,Subway Car,1
+2018-04-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2018-04-01,B DIVISION,A,1,Subway Car,1
+2018-04-01,B DIVISION,A,1,Track,2
+2018-04-01,B DIVISION,B,1,Signals,2
+2018-04-01,B DIVISION,D,1,Stations and Structure,2
+2018-04-01,B DIVISION,D,1,Track,1
+2018-04-01,B DIVISION,E,1,Other,4
+2018-04-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,1
+2018-04-01,B DIVISION,E,1,Signals,5
+2018-04-01,B DIVISION,E,1,Track,1
+2018-04-01,B DIVISION,F,1,Signals,3
+2018-04-01,B DIVISION,F,1,Stations and Structure,1
+2018-04-01,B DIVISION,F,1,Subway Car,1
+2018-04-01,B DIVISION,F,1,Track,2
+2018-04-01,B DIVISION,L,2,Other,1
+2018-04-01,B DIVISION,M,1,Other,1
+2018-04-01,B DIVISION,M,1,Signals,1
+2018-04-01,B DIVISION,M,1,Track,1
+2018-04-01,B DIVISION,N,1,Signals,3
+2018-04-01,B DIVISION,N,1,Subway Car,1
+2018-04-01,B DIVISION,N,1,Track,1
+2018-04-01,B DIVISION,Q,1,Other,1
+2018-04-01,B DIVISION,Q,2,Stations and Structure,1
+2018-04-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,1
+2018-04-01,B DIVISION,R,1,Subway Car,1
+2018-04-01,B DIVISION,R,2,Persons on Trackbed/Police/Medical,1
+2018-04-01,Systemwide,Systemwide,1,Other,14
+2018-04-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,9
+2018-04-01,Systemwide,Systemwide,1,Signals,26
+2018-04-01,Systemwide,Systemwide,1,Stations and Structure,4
+2018-04-01,Systemwide,Systemwide,1,Subway Car,7
+2018-04-01,Systemwide,Systemwide,1,Track,16
+2018-04-01,Systemwide,Systemwide,2,Other,1
+2018-04-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2018-04-01,Systemwide,Systemwide,2,Signals,1
+2018-04-01,Systemwide,Systemwide,2,Stations and Structure,1
+2018-05-01,A DIVISION,1,1,Other,1
+2018-05-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,2
+2018-05-01,A DIVISION,1,1,Signals,2
+2018-05-01,A DIVISION,1,1,Stations and Structure,1
+2018-05-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2018-05-01,A DIVISION,2,1,Signals,2
+2018-05-01,A DIVISION,2,1,Stations and Structure,1
+2018-05-01,A DIVISION,2,1,Track,2
+2018-05-01,A DIVISION,3,1,Other,2
+2018-05-01,A DIVISION,3,1,Track,1
+2018-05-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,1
+2018-05-01,A DIVISION,4,1,Signals,5
+2018-05-01,A DIVISION,4,1,Stations and Structure,1
+2018-05-01,A DIVISION,4,1,Track,1
+2018-05-01,A DIVISION,4,2,Signals,1
+2018-05-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2018-05-01,A DIVISION,6,1,Other,1
+2018-05-01,A DIVISION,6,1,Signals,1
+2018-05-01,A DIVISION,7,1,Other,3
+2018-05-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,1
+2018-05-01,A DIVISION,7,1,Signals,6
+2018-05-01,A DIVISION,7,1,Stations and Structure,2
+2018-05-01,A DIVISION,7,1,Subway Car,1
+2018-05-01,A DIVISION,7,1,Track,2
+2018-05-01,B DIVISION,A,1,Signals,1
+2018-05-01,B DIVISION,A,1,Track,1
+2018-05-01,B DIVISION,B,1,Persons on Trackbed/Police/Medical,1
+2018-05-01,B DIVISION,B,1,Signals,1
+2018-05-01,B DIVISION,C,1,Other,1
+2018-05-01,B DIVISION,C,1,Track,2
+2018-05-01,B DIVISION,D,1,Stations and Structure,1
+2018-05-01,B DIVISION,D,1,Track,1
+2018-05-01,B DIVISION,D,2,Signals,1
+2018-05-01,B DIVISION,D,2,Subway Car,1
+2018-05-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,1
+2018-05-01,B DIVISION,E,1,Signals,3
+2018-05-01,B DIVISION,E,1,Track,4
+2018-05-01,B DIVISION,F,1,Other,1
+2018-05-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2018-05-01,B DIVISION,F,1,Signals,2
+2018-05-01,B DIVISION,F,1,Stations and Structure,2
+2018-05-01,B DIVISION,F,1,Track,2
+2018-05-01,B DIVISION,G,1,Signals,1
+2018-05-01,B DIVISION,JZ,1,Other,1
+2018-05-01,B DIVISION,M,1,Persons on Trackbed/Police/Medical,1
+2018-05-01,B DIVISION,M,1,Signals,3
+2018-05-01,B DIVISION,M,1,Stations and Structure,1
+2018-05-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2018-05-01,B DIVISION,N,1,Signals,4
+2018-05-01,B DIVISION,N,2,Persons on Trackbed/Police/Medical,1
+2018-05-01,B DIVISION,N,2,Track,1
+2018-05-01,B DIVISION,Q,1,Signals,2
+2018-05-01,B DIVISION,Q,1,Track,1
+2018-05-01,B DIVISION,R,1,Signals,1
+2018-05-01,B DIVISION,R,1,Subway Car,1
+2018-05-01,B DIVISION,R,1,Track,1
+2018-05-01,B DIVISION,W,1,Signals,1
+2018-05-01,Systemwide,Systemwide,1,Other,10
+2018-05-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,11
+2018-05-01,Systemwide,Systemwide,1,Signals,35
+2018-05-01,Systemwide,Systemwide,1,Stations and Structure,9
+2018-05-01,Systemwide,Systemwide,1,Subway Car,2
+2018-05-01,Systemwide,Systemwide,1,Track,18
+2018-05-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2018-05-01,Systemwide,Systemwide,2,Signals,2
+2018-05-01,Systemwide,Systemwide,2,Subway Car,1
+2018-05-01,Systemwide,Systemwide,2,Track,1
+2018-06-01,A DIVISION,1,1,Other,1
+2018-06-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2018-06-01,A DIVISION,1,1,Signals,1
+2018-06-01,A DIVISION,2,1,Signals,1
+2018-06-01,A DIVISION,2,1,Subway Car,2
+2018-06-01,A DIVISION,2,1,Track,1
+2018-06-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,1
+2018-06-01,A DIVISION,3,1,Signals,1
+2018-06-01,A DIVISION,3,1,Track,1
+2018-06-01,A DIVISION,3,2,Persons on Trackbed/Police/Medical,1
+2018-06-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,1
+2018-06-01,A DIVISION,4,1,Stations and Structure,2
+2018-06-01,A DIVISION,4,1,Subway Car,1
+2018-06-01,A DIVISION,5,1,Subway Car,1
+2018-06-01,A DIVISION,5,2,Track,1
+2018-06-01,A DIVISION,6,1,Other,1
+2018-06-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,1
+2018-06-01,A DIVISION,6,1,Signals,1
+2018-06-01,A DIVISION,6,1,Track,2
+2018-06-01,A DIVISION,6,2,Track,1
+2018-06-01,A DIVISION,7,1,Other,2
+2018-06-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,3
+2018-06-01,A DIVISION,7,1,Signals,2
+2018-06-01,A DIVISION,7,1,Track,1
+2018-06-01,A DIVISION,7,2,Other,1
+2018-06-01,B DIVISION,A,2,Signals,1
+2018-06-01,B DIVISION,B,1,Other,1
+2018-06-01,B DIVISION,B,1,Signals,2
+2018-06-01,B DIVISION,C,1,Subway Car,1
+2018-06-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2018-06-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,1
+2018-06-01,B DIVISION,E,1,Signals,1
+2018-06-01,B DIVISION,E,2,Stations and Structure,1
+2018-06-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,4
+2018-06-01,B DIVISION,F,1,Signals,2
+2018-06-01,B DIVISION,F,1,Stations and Structure,2
+2018-06-01,B DIVISION,L,1,Persons on Trackbed/Police/Medical,2
+2018-06-01,B DIVISION,M,1,Stations and Structure,1
+2018-06-01,B DIVISION,M,1,Track,1
+2018-06-01,B DIVISION,N,1,Signals,3
+2018-06-01,B DIVISION,N,1,Stations and Structure,1
+2018-06-01,B DIVISION,N,1,Track,2
+2018-06-01,B DIVISION,N,2,Signals,1
+2018-06-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,1
+2018-06-01,B DIVISION,Q,1,Signals,1
+2018-06-01,B DIVISION,Q,1,Subway Car,1
+2018-06-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,1
+2018-06-01,B DIVISION,R,1,Signals,2
+2018-06-01,B DIVISION,R,1,Stations and Structure,1
+2018-06-01,B DIVISION,R,1,Track,1
+2018-06-01,B DIVISION,S Rock,2,Track,1
+2018-06-01,Systemwide,Systemwide,1,Other,5
+2018-06-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,17
+2018-06-01,Systemwide,Systemwide,1,Signals,18
+2018-06-01,Systemwide,Systemwide,1,Stations and Structure,7
+2018-06-01,Systemwide,Systemwide,1,Subway Car,6
+2018-06-01,Systemwide,Systemwide,1,Track,9
+2018-06-01,Systemwide,Systemwide,2,Other,1
+2018-06-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2018-06-01,Systemwide,Systemwide,2,Signals,3
+2018-06-01,Systemwide,Systemwide,2,Stations and Structure,1
+2018-06-01,Systemwide,Systemwide,2,Track,3
+2018-06-01,,,1,Signals,1
+2018-07-01,A DIVISION,1,1,Signals,1
+2018-07-01,A DIVISION,1,1,Stations and Structure,1
+2018-07-01,A DIVISION,1,1,Subway Car,1
+2018-07-01,A DIVISION,1,1,Track,1
+2018-07-01,A DIVISION,2,1,Other,1
+2018-07-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,2
+2018-07-01,A DIVISION,2,1,Stations and Structure,1
+2018-07-01,A DIVISION,2,1,Track,1
+2018-07-01,A DIVISION,3,1,Signals,1
+2018-07-01,A DIVISION,3,1,Track,1
+2018-07-01,A DIVISION,3,2,Stations and Structure,1
+2018-07-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,1
+2018-07-01,A DIVISION,4,1,Signals,1
+2018-07-01,A DIVISION,4,1,Stations and Structure,1
+2018-07-01,A DIVISION,4,1,Subway Car,1
+2018-07-01,A DIVISION,5,1,Signals,1
+2018-07-01,A DIVISION,5,1,Subway Car,1
+2018-07-01,A DIVISION,5,1,Track,1
+2018-07-01,A DIVISION,5,2,Signals,1
+2018-07-01,A DIVISION,6,1,Signals,1
+2018-07-01,A DIVISION,6,1,Stations and Structure,3
+2018-07-01,A DIVISION,7,1,Other,1
+2018-07-01,A DIVISION,7,1,Signals,1
+2018-07-01,A DIVISION,7,1,Subway Car,1
+2018-07-01,A DIVISION,7,1,Track,1
+2018-07-01,A DIVISION,7,2,Stations and Structure,1
+2018-07-01,B DIVISION,A,1,Signals,1
+2018-07-01,B DIVISION,A,1,Stations and Structure,1
+2018-07-01,B DIVISION,A,1,Track,1
+2018-07-01,B DIVISION,A,2,Persons on Trackbed/Police/Medical,1
+2018-07-01,B DIVISION,A,2,Stations and Structure,1
+2018-07-01,B DIVISION,B,1,Stations and Structure,1
+2018-07-01,B DIVISION,C,1,Persons on Trackbed/Police/Medical,1
+2018-07-01,B DIVISION,D,1,Signals,1
+2018-07-01,B DIVISION,D,1,Stations and Structure,1
+2018-07-01,B DIVISION,D,1,Track,1
+2018-07-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,2
+2018-07-01,B DIVISION,E,1,Signals,3
+2018-07-01,B DIVISION,E,1,Stations and Structure,2
+2018-07-01,B DIVISION,E,1,Track,1
+2018-07-01,B DIVISION,F,1,Other,1
+2018-07-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2018-07-01,B DIVISION,F,1,Signals,2
+2018-07-01,B DIVISION,F,1,Track,1
+2018-07-01,B DIVISION,F,2,Signals,1
+2018-07-01,B DIVISION,F,2,Stations and Structure,1
+2018-07-01,B DIVISION,G,2,Persons on Trackbed/Police/Medical,1
+2018-07-01,B DIVISION,JZ,1,Other,1
+2018-07-01,B DIVISION,L,1,Signals,1
+2018-07-01,B DIVISION,L,1,Stations and Structure,2
+2018-07-01,B DIVISION,L,1,Subway Car,1
+2018-07-01,B DIVISION,M,1,Other,1
+2018-07-01,B DIVISION,M,1,Signals,1
+2018-07-01,B DIVISION,M,1,Stations and Structure,1
+2018-07-01,B DIVISION,M,1,Track,1
+2018-07-01,B DIVISION,N,1,Other,1
+2018-07-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2018-07-01,B DIVISION,N,1,Signals,1
+2018-07-01,B DIVISION,N,1,Stations and Structure,1
+2018-07-01,B DIVISION,N,1,Subway Car,1
+2018-07-01,B DIVISION,N,1,Track,1
+2018-07-01,B DIVISION,Q,1,Signals,1
+2018-07-01,B DIVISION,R,1,Other,2
+2018-07-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,2
+2018-07-01,B DIVISION,R,1,Signals,2
+2018-07-01,Systemwide,Systemwide,1,Other,8
+2018-07-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,10
+2018-07-01,Systemwide,Systemwide,1,Signals,19
+2018-07-01,Systemwide,Systemwide,1,Stations and Structure,15
+2018-07-01,Systemwide,Systemwide,1,Subway Car,6
+2018-07-01,Systemwide,Systemwide,1,Track,11
+2018-07-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,2
+2018-07-01,Systemwide,Systemwide,2,Signals,2
+2018-07-01,Systemwide,Systemwide,2,Stations and Structure,5
+2018-08-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2018-08-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2018-08-01,A DIVISION,2,1,Subway Car,1
+2018-08-01,A DIVISION,3,1,Signals,2
+2018-08-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2018-08-01,A DIVISION,4,1,Signals,2
+2018-08-01,A DIVISION,4,2,Stations and Structure,1
+2018-08-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2018-08-01,A DIVISION,5,1,Signals,2
+2018-08-01,A DIVISION,5,1,Track,1
+2018-08-01,A DIVISION,6,1,Other,1
+2018-08-01,A DIVISION,6,1,Track,1
+2018-08-01,A DIVISION,7,1,Other,1
+2018-08-01,A DIVISION,7,1,Signals,6
+2018-08-01,A DIVISION,7,1,Stations and Structure,1
+2018-08-01,A DIVISION,7,1,Track,2
+2018-08-01,A DIVISION,7,2,Signals,1
+2018-08-01,A DIVISION,7,2,Signals,2
+2018-08-01,B DIVISION,A,1,Signals,4
+2018-08-01,B DIVISION,A,1,Subway Car,1
+2018-08-01,B DIVISION,A,1,Track,1
+2018-08-01,B DIVISION,A,2,Signals,1
+2018-08-01,B DIVISION,B,1,Stations and Structure,1
+2018-08-01,B DIVISION,B,1,Track,1
+2018-08-01,B DIVISION,C,1,Signals,1
+2018-08-01,B DIVISION,D,1,Other,1
+2018-08-01,B DIVISION,D,1,Signals,2
+2018-08-01,B DIVISION,D,1,Stations and Structure,2
+2018-08-01,B DIVISION,D,1,Track,1
+2018-08-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,1
+2018-08-01,B DIVISION,E,1,Track,2
+2018-08-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2018-08-01,B DIVISION,F,1,Signals,1
+2018-08-01,B DIVISION,F,1,Subway Car,1
+2018-08-01,B DIVISION,L,2,Signals,1
+2018-08-01,B DIVISION,L,2,Track,1
+2018-08-01,B DIVISION,M,1,Signals,1
+2018-08-01,B DIVISION,M,1,Subway Car,1
+2018-08-01,B DIVISION,M,1,Track,1
+2018-08-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2018-08-01,B DIVISION,N,1,Signals,4
+2018-08-01,B DIVISION,N,1,Stations and Structure,1
+2018-08-01,B DIVISION,N,1,Subway Car,1
+2018-08-01,B DIVISION,N,1,Track,2
+2018-08-01,B DIVISION,Q,1,Other,2
+2018-08-01,B DIVISION,R,1,Signals,2
+2018-08-01,B DIVISION,R,2,Persons on Trackbed/Police/Medical,1
+2018-08-01,Systemwide,Systemwide,1,Other,5
+2018-08-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,8
+2018-08-01,Systemwide,Systemwide,1,Signals,27
+2018-08-01,Systemwide,Systemwide,1,Stations and Structure,5
+2018-08-01,Systemwide,Systemwide,1,Subway Car,5
+2018-08-01,Systemwide,Systemwide,1,Track,12
+2018-08-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2018-08-01,Systemwide,Systemwide,2,Signals,6
+2018-08-01,Systemwide,Systemwide,2,Stations and Structure,1
+2018-08-01,Systemwide,Systemwide,2,Track,1
+2018-09-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2018-09-01,A DIVISION,1,1,Signals,1
+2018-09-01,A DIVISION,1,1,Track,1
+2018-09-01,A DIVISION,2,1,Other,1
+2018-09-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,3
+2018-09-01,A DIVISION,2,1,Signals,1
+2018-09-01,A DIVISION,3,1,Stations and Structure,1
+2018-09-01,A DIVISION,3,1,Track,1
+2018-09-01,A DIVISION,4,1,Signals,1
+2018-09-01,A DIVISION,4,1,Subway Car,1
+2018-09-01,A DIVISION,4,2,Other,1
+2018-09-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2018-09-01,A DIVISION,5,1,Signals,3
+2018-09-01,A DIVISION,5,1,Stations and Structure,2
+2018-09-01,A DIVISION,6,1,Subway Car,1
+2018-09-01,A DIVISION,7,1,Other,1
+2018-09-01,A DIVISION,7,1,Stations and Structure,1
+2018-09-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,2
+2018-09-01,B DIVISION,A,1,Subway Car,1
+2018-09-01,B DIVISION,A,2,Signals,2
+2018-09-01,B DIVISION,B,1,Signals,1
+2018-09-01,B DIVISION,C,1,Signals,1
+2018-09-01,B DIVISION,C,2,Persons on Trackbed/Police/Medical,1
+2018-09-01,B DIVISION,C,2,Signals,1
+2018-09-01,B DIVISION,D,1,Signals,1
+2018-09-01,B DIVISION,D,1,Stations and Structure,2
+2018-09-01,B DIVISION,D,2,Stations and Structure,1
+2018-09-01,B DIVISION,E,1,Signals,4
+2018-09-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2018-09-01,B DIVISION,F,2,Track,1
+2018-09-01,B DIVISION,JZ,1,Signals,1
+2018-09-01,B DIVISION,L,2,Signals,1
+2018-09-01,B DIVISION,M,1,Stations and Structure,1
+2018-09-01,B DIVISION,M,1,Subway Car,1
+2018-09-01,B DIVISION,N,1,Signals,1
+2018-09-01,B DIVISION,N,1,Track,2
+2018-09-01,B DIVISION,N,2,Track,1
+2018-09-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,2
+2018-09-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,1
+2018-09-01,B DIVISION,R,1,Signals,1
+2018-09-01,B DIVISION,R,1,Track,1
+2018-09-01,Systemwide,Systemwide,1,Other,2
+2018-09-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,11
+2018-09-01,Systemwide,Systemwide,1,Signals,16
+2018-09-01,Systemwide,Systemwide,1,Stations and Structure,7
+2018-09-01,Systemwide,Systemwide,1,Subway Car,4
+2018-09-01,Systemwide,Systemwide,1,Track,5
+2018-09-01,Systemwide,Systemwide,2,Other,1
+2018-09-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,2
+2018-09-01,Systemwide,Systemwide,2,Signals,4
+2018-09-01,Systemwide,Systemwide,2,Stations and Structure,1
+2018-09-01,Systemwide,Systemwide,2,Track,2
+2018-10-01,A DIVISION,1,1,Other,1
+2018-10-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,3
+2018-10-01,A DIVISION,2,1,Signals,2
+2018-10-01,A DIVISION,2,1,Track,1
+2018-10-01,A DIVISION,2,2,Other,1
+2018-10-01,A DIVISION,3,1,Signals,1
+2018-10-01,A DIVISION,3,1,Stations and Structure,1
+2018-10-01,A DIVISION,3,1,Track,1
+2018-10-01,A DIVISION,4,1,Other,2
+2018-10-01,A DIVISION,4,1,Signals,2
+2018-10-01,A DIVISION,4,1,Track,1
+2018-10-01,A DIVISION,4,2,Subway Car,1
+2018-10-01,A DIVISION,5,1,Signals,1
+2018-10-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,2
+2018-10-01,A DIVISION,6,1,Signals,1
+2018-10-01,A DIVISION,6,1,Track,2
+2018-10-01,A DIVISION,6,2,Persons on Trackbed/Police/Medical,2
+2018-10-01,A DIVISION,7,1,Signals,1
+2018-10-01,A DIVISION,7,1,Track,1
+2018-10-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2018-10-01,B DIVISION,A,1,Signals,1
+2018-10-01,B DIVISION,B,1,Signals,1
+2018-10-01,B DIVISION,B,1,Subway Car,1
+2018-10-01,B DIVISION,C,1,Persons on Trackbed/Police/Medical,1
+2018-10-01,B DIVISION,C,1,Signals,1
+2018-10-01,B DIVISION,C,1,Track,1
+2018-10-01,B DIVISION,D,1,Signals,2
+2018-10-01,B DIVISION,E,1,Other,1
+2018-10-01,B DIVISION,E,1,Signals,2
+2018-10-01,B DIVISION,E,2,Track,1
+2018-10-01,B DIVISION,F,1,Other,1
+2018-10-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2018-10-01,B DIVISION,F,1,Stations and Structure,1
+2018-10-01,B DIVISION,F,1,Subway Car,1
+2018-10-01,B DIVISION,G,1,Persons on Trackbed/Police/Medical,1
+2018-10-01,B DIVISION,JZ,1,Track,1
+2018-10-01,B DIVISION,M,1,Signals,2
+2018-10-01,B DIVISION,M,2,Other,1
+2018-10-01,B DIVISION,M,2,Track,1
+2018-10-01,B DIVISION,N,1,Signals,2
+2018-10-01,B DIVISION,N,1,Stations and Structure,1
+2018-10-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,1
+2018-10-01,B DIVISION,Q,1,Signals,4
+2018-10-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,1
+2018-10-01,Systemwide,Systemwide,1,Other,5
+2018-10-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,11
+2018-10-01,Systemwide,Systemwide,1,Signals,23
+2018-10-01,Systemwide,Systemwide,1,Stations and Structure,3
+2018-10-01,Systemwide,Systemwide,1,Subway Car,2
+2018-10-01,Systemwide,Systemwide,1,Track,8
+2018-10-01,Systemwide,Systemwide,2,Other,2
+2018-10-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,2
+2018-10-01,Systemwide,Systemwide,2,Subway Car,1
+2018-10-01,Systemwide,Systemwide,2,Track,2
+2018-11-01,A DIVISION,1,1,Track,1
+2018-11-01,A DIVISION,1,2,Track,1
+2018-11-01,A DIVISION,2,1,Other,1
+2018-11-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,4
+2018-11-01,A DIVISION,2,1,Signals,2
+2018-11-01,A DIVISION,2,2,Stations and Structure,1
+2018-11-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,1
+2018-11-01,A DIVISION,3,1,Signals,3
+2018-11-01,A DIVISION,4,1,Other,1
+2018-11-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2018-11-01,A DIVISION,4,1,Signals,3
+2018-11-01,A DIVISION,4,1,Subway Car,1
+2018-11-01,A DIVISION,4,2,Signals,1
+2018-11-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2018-11-01,A DIVISION,5,1,Signals,2
+2018-11-01,A DIVISION,6,1,Other,1
+2018-11-01,A DIVISION,6,1,Track,4
+2018-11-01,A DIVISION,7,1,Other,1
+2018-11-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,5
+2018-11-01,A DIVISION,7,1,Signals,2
+2018-11-01,A DIVISION,7,1,Subway Car,1
+2018-11-01,A DIVISION,7,1,Track,1
+2018-11-01,B DIVISION,A,1,Other,1
+2018-11-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2018-11-01,B DIVISION,A,2,Other,1
+2018-11-01,B DIVISION,B,1,Other,1
+2018-11-01,B DIVISION,C,1,Track,1
+2018-11-01,B DIVISION,C,2,Signals,1
+2018-11-01,B DIVISION,D,1,Other,1
+2018-11-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2018-11-01,B DIVISION,D,1,Signals,1
+2018-11-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,1
+2018-11-01,B DIVISION,E,1,Signals,2
+2018-11-01,B DIVISION,F,1,Signals,1
+2018-11-01,B DIVISION,F,1,Track,2
+2018-11-01,B DIVISION,JZ,1,Other,1
+2018-11-01,B DIVISION,JZ,1,Persons on Trackbed/Police/Medical,1
+2018-11-01,B DIVISION,JZ,1,Track,1
+2018-11-01,B DIVISION,L,1,Signals,1
+2018-11-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2018-11-01,B DIVISION,N,1,Signals,5
+2018-11-01,B DIVISION,N,1,Subway Car,1
+2018-11-01,B DIVISION,Q,1,Signals,2
+2018-11-01,B DIVISION,Q,1,Track,1
+2018-11-01,B DIVISION,R,1,Stations and Structure,1
+2018-11-01,B DIVISION,R,1,Subway Car,2
+2018-11-01,B DIVISION,R,2,Stations and Structure,1
+2018-11-01,Systemwide,Systemwide,1,Other,8
+2018-11-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,18
+2018-11-01,Systemwide,Systemwide,1,Signals,24
+2018-11-01,Systemwide,Systemwide,1,Stations and Structure,1
+2018-11-01,Systemwide,Systemwide,1,Subway Car,5
+2018-11-01,Systemwide,Systemwide,1,Track,11
+2018-11-01,Systemwide,Systemwide,2,Other,1
+2018-11-01,Systemwide,Systemwide,2,Signals,2
+2018-11-01,Systemwide,Systemwide,2,Stations and Structure,2
+2018-11-01,Systemwide,Systemwide,2,Track,1
+2018-12-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,3
+2018-12-01,A DIVISION,1,1,Track,1
+2018-12-01,A DIVISION,2,1,Other,1
+2018-12-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2018-12-01,A DIVISION,2,1,Signals,2
+2018-12-01,A DIVISION,2,1,Stations and Structure,1
+2018-12-01,A DIVISION,2,2,Other,1
+2018-12-01,A DIVISION,2,2,Track,1
+2018-12-01,A DIVISION,3,1,Signals,2
+2018-12-01,A DIVISION,3,1,Track,2
+2018-12-01,A DIVISION,4,1,Other,2
+2018-12-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2018-12-01,A DIVISION,4,1,Signals,2
+2018-12-01,A DIVISION,4,1,Track,1
+2018-12-01,A DIVISION,4,2,Track,1
+2018-12-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2018-12-01,A DIVISION,5,1,Signals,1
+2018-12-01,A DIVISION,5,2,Track,1
+2018-12-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,1
+2018-12-01,A DIVISION,7,1,Other,1
+2018-12-01,A DIVISION,7,1,Subway Car,1
+2018-12-01,A DIVISION,7,2,Stations and Structure,1
+2018-12-01,B DIVISION,A,1,Track,2
+2018-12-01,B DIVISION,B,1,Persons on Trackbed/Police/Medical,1
+2018-12-01,B DIVISION,B,1,Signals,1
+2018-12-01,B DIVISION,B,1,Subway Car,1
+2018-12-01,B DIVISION,B,1,Track,1
+2018-12-01,B DIVISION,C,1,Other,1
+2018-12-01,B DIVISION,C,1,Signals,1
+2018-12-01,B DIVISION,D,1,Other,1
+2018-12-01,B DIVISION,D,2,Persons on Trackbed/Police/Medical,1
+2018-12-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,2
+2018-12-01,B DIVISION,F,1,Other,1
+2018-12-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,2
+2018-12-01,B DIVISION,F,1,Signals,1
+2018-12-01,B DIVISION,F,1,Track,3
+2018-12-01,B DIVISION,G,1,Signals,1
+2018-12-01,B DIVISION,L,1,Signals,1
+2018-12-01,B DIVISION,L,1,Subway Car,1
+2018-12-01,B DIVISION,L,2,Signals,1
+2018-12-01,B DIVISION,M,1,Other,1
+2018-12-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2018-12-01,B DIVISION,N,1,Signals,1
+2018-12-01,B DIVISION,N,1,Subway Car,1
+2018-12-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,1
+2018-12-01,B DIVISION,R,1,Track,1
+2018-12-01,B DIVISION,R,2,Stations and Structure,1
+2018-12-01,Systemwide,Systemwide,1,Other,8
+2018-12-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,15
+2018-12-01,Systemwide,Systemwide,1,Signals,13
+2018-12-01,Systemwide,Systemwide,1,Stations and Structure,1
+2018-12-01,Systemwide,Systemwide,1,Subway Car,4
+2018-12-01,Systemwide,Systemwide,1,Track,11
+2018-12-01,Systemwide,Systemwide,2,Other,1
+2018-12-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2018-12-01,Systemwide,Systemwide,2,Signals,1
+2018-12-01,Systemwide,Systemwide,2,Stations and Structure,2
+2018-12-01,Systemwide,Systemwide,2,Track,3
+2019-01-01,A DIVISION,1,1,Other,2
+2019-01-01,A DIVISION,2,1,Subway Car,1
+2019-01-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2019-01-01,A DIVISION,4,1,Signals,4
+2019-01-01,A DIVISION,4,1,Track,1
+2019-01-01,A DIVISION,4,2,Other,1
+2019-01-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,3
+2019-01-01,A DIVISION,5,1,Signals,1
+2019-01-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,1
+2019-01-01,A DIVISION,6,1,Signals,2
+2019-01-01,A DIVISION,6,1,Track,1
+2019-01-01,A DIVISION,6,2,Persons on Trackbed/Police/Medical,1
+2019-01-01,A DIVISION,7,1,Other,1
+2019-01-01,A DIVISION,7,1,Signals,2
+2019-01-01,A DIVISION,7,1,Subway Car,1
+2019-01-01,B DIVISION,A,1,Signals,1
+2019-01-01,B DIVISION,A,1,Subway Car,1
+2019-01-01,B DIVISION,A,1,Track,1
+2019-01-01,B DIVISION,A,2,Other,1
+2019-01-01,B DIVISION,B,1,Other,1
+2019-01-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2019-01-01,B DIVISION,D,1,Signals,3
+2019-01-01,B DIVISION,D,1,Stations and Structure,1
+2019-01-01,B DIVISION,D,1,Subway Car,1
+2019-01-01,B DIVISION,D,2,Track,1
+2019-01-01,B DIVISION,E,1,Track,1
+2019-01-01,B DIVISION,E,2,Other,1
+2019-01-01,B DIVISION,F,1,Other,3
+2019-01-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2019-01-01,B DIVISION,F,1,Signals,1
+2019-01-01,B DIVISION,F,1,Track,1
+2019-01-01,B DIVISION,JZ,1,Persons on Trackbed/Police/Medical,1
+2019-01-01,B DIVISION,JZ,1,Track,1
+2019-01-01,B DIVISION,L,1,Other,1
+2019-01-01,B DIVISION,L,1,Persons on Trackbed/Police/Medical,1
+2019-01-01,B DIVISION,L,1,Signals,1
+2019-01-01,B DIVISION,L,2,Signals,1
+2019-01-01,B DIVISION,L,2,Stations and Structure,1
+2019-01-01,B DIVISION,M,1,Other,1
+2019-01-01,B DIVISION,N,1,Other,3
+2019-01-01,B DIVISION,N,1,Subway Car,1
+2019-01-01,B DIVISION,Q,1,Other,1
+2019-01-01,B DIVISION,R,1,Signals,1
+2019-01-01,B DIVISION,R,1,Track,1
+2019-01-01,Systemwide,Systemwide,1,Other,13
+2019-01-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,10
+2019-01-01,Systemwide,Systemwide,1,Signals,16
+2019-01-01,Systemwide,Systemwide,1,Stations and Structure,1
+2019-01-01,Systemwide,Systemwide,1,Subway Car,5
+2019-01-01,Systemwide,Systemwide,1,Track,7
+2019-01-01,Systemwide,Systemwide,2,Other,3
+2019-01-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2019-01-01,Systemwide,Systemwide,2,Signals,1
+2019-01-01,Systemwide,Systemwide,2,Stations and Structure,1
+2019-01-01,Systemwide,Systemwide,2,Track,1
+2019-02-01,A DIVISION,1,1,Other,1
+2019-02-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2019-02-01,A DIVISION,2,1,Signals,1
+2019-02-01,A DIVISION,2,1,Stations and Structure,1
+2019-02-01,A DIVISION,2,2,Track,1
+2019-02-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,1
+2019-02-01,A DIVISION,3,2,Persons on Trackbed/Police/Medical,1
+2019-02-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2019-02-01,A DIVISION,4,1,Signals,3
+2019-02-01,A DIVISION,4,1,Stations and Structure,1
+2019-02-01,A DIVISION,4,1,Subway Car,1
+2019-02-01,A DIVISION,4,1,Track,2
+2019-02-01,A DIVISION,5,1,Signals,1
+2019-02-01,A DIVISION,5,1,Stations and Structure,1
+2019-02-01,A DIVISION,5,1,Subway Car,1
+2019-02-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,1
+2019-02-01,A DIVISION,6,1,Signals,1
+2019-02-01,A DIVISION,6,1,Track,1
+2019-02-01,A DIVISION,6,2,Persons on Trackbed/Police/Medical,1
+2019-02-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,1
+2019-02-01,A DIVISION,7,1,Subway Car,1
+2019-02-01,B DIVISION,A,1,Signals,3
+2019-02-01,B DIVISION,A,1,Track,1
+2019-02-01,B DIVISION,B,1,Signals,2
+2019-02-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,2
+2019-02-01,B DIVISION,D,1,Signals,1
+2019-02-01,B DIVISION,E,1,Signals,1
+2019-02-01,B DIVISION,F,1,Other,1
+2019-02-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,2
+2019-02-01,B DIVISION,F,1,Signals,1
+2019-02-01,B DIVISION,JZ,1,Other,1
+2019-02-01,B DIVISION,L,1,Persons on Trackbed/Police/Medical,1
+2019-02-01,B DIVISION,L,1,Stations and Structure,1
+2019-02-01,B DIVISION,M,1,Signals,1
+2019-02-01,B DIVISION,N,1,Signals,2
+2019-02-01,B DIVISION,Q,1,Other,1
+2019-02-01,B DIVISION,Q,1,Signals,1
+2019-02-01,B DIVISION,Q,1,Track,1
+2019-02-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,1
+2019-02-01,B DIVISION,R,1,Signals,1
+2019-02-01,Systemwide,Systemwide,1,Other,4
+2019-02-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,12
+2019-02-01,Systemwide,Systemwide,1,Signals,19
+2019-02-01,Systemwide,Systemwide,1,Stations and Structure,4
+2019-02-01,Systemwide,Systemwide,1,Subway Car,3
+2019-02-01,Systemwide,Systemwide,1,Track,5
+2019-02-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,2
+2019-02-01,Systemwide,Systemwide,2,Track,1
+2019-03-01,A DIVISION,1,1,Other,1
+2019-03-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2019-03-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2019-03-01,A DIVISION,2,1,Signals,2
+2019-03-01,A DIVISION,3,1,Signals,2
+2019-03-01,A DIVISION,3,1,Subway Car,1
+2019-03-01,A DIVISION,3,1,Track,1
+2019-03-01,A DIVISION,4,1,Other,1
+2019-03-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2019-03-01,A DIVISION,4,1,Signals,1
+2019-03-01,A DIVISION,4,2,Signals,1
+2019-03-01,A DIVISION,5,1,Other,1
+2019-03-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2019-03-01,A DIVISION,5,1,Signals,2
+2019-03-01,A DIVISION,5,1,Subway Car,1
+2019-03-01,A DIVISION,6,1,Other,1
+2019-03-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,3
+2019-03-01,A DIVISION,6,1,Track,3
+2019-03-01,A DIVISION,7,1,Other,1
+2019-03-01,A DIVISION,7,1,Signals,1
+2019-03-01,A DIVISION,7,1,Stations and Structure,1
+2019-03-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2019-03-01,B DIVISION,B,1,Stations and Structure,1
+2019-03-01,B DIVISION,B,1,Track,1
+2019-03-01,B DIVISION,C,1,Persons on Trackbed/Police/Medical,1
+2019-03-01,B DIVISION,C,1,Signals,1
+2019-03-01,B DIVISION,C,1,Track,1
+2019-03-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2019-03-01,B DIVISION,D,1,Signals,1
+2019-03-01,B DIVISION,D,2,Other,1
+2019-03-01,B DIVISION,E,1,Other,1
+2019-03-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,2
+2019-03-01,B DIVISION,JZ,1,Other,1
+2019-03-01,B DIVISION,L,1,Persons on Trackbed/Police/Medical,1
+2019-03-01,B DIVISION,L,1,Stations and Structure,1
+2019-03-01,B DIVISION,L,1,Subway Car,1
+2019-03-01,B DIVISION,M,2,Other,1
+2019-03-01,B DIVISION,N,1,Other,1
+2019-03-01,B DIVISION,N,1,Signals,1
+2019-03-01,B DIVISION,N,1,Track,1
+2019-03-01,B DIVISION,Q,1,Other,1
+2019-03-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,2
+2019-03-01,B DIVISION,Q,1,Signals,1
+2019-03-01,Systemwide,Systemwide,1,Other,9
+2019-03-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,16
+2019-03-01,Systemwide,Systemwide,1,Signals,12
+2019-03-01,Systemwide,Systemwide,1,Stations and Structure,3
+2019-03-01,Systemwide,Systemwide,1,Subway Car,3
+2019-03-01,Systemwide,Systemwide,1,Track,7
+2019-03-01,Systemwide,Systemwide,2,Other,2
+2019-03-01,Systemwide,Systemwide,2,Signals,1
+2019-04-01,A DIVISION,1,1,Signals,1
+2019-04-01,A DIVISION,1,1,Subway Car,1
+2019-04-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2019-04-01,A DIVISION,2,1,Signals,1
+2019-04-01,A DIVISION,2,1,Track,1
+2019-04-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,2
+2019-04-01,A DIVISION,3,2,Persons on Trackbed/Police/Medical,1
+2019-04-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2019-04-01,A DIVISION,5,1,Other,1
+2019-04-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2019-04-01,A DIVISION,5,1,Track,1
+2019-04-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,2
+2019-04-01,A DIVISION,6,1,Signals,3
+2019-04-01,A DIVISION,6,1,Track,3
+2019-04-01,A DIVISION,7,1,Signals,2
+2019-04-01,A DIVISION,7,1,Subway Car,1
+2019-04-01,A DIVISION,7,1,Track,3
+2019-04-01,B DIVISION,A,1,Other,1
+2019-04-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2019-04-01,B DIVISION,A,1,Signals,1
+2019-04-01,B DIVISION,A,2,Signals,1
+2019-04-01,B DIVISION,B,1,Persons on Trackbed/Police/Medical,1
+2019-04-01,B DIVISION,B,1,Signals,1
+2019-04-01,B DIVISION,B,1,Track,1
+2019-04-01,B DIVISION,C,1,Persons on Trackbed/Police/Medical,1
+2019-04-01,B DIVISION,C,1,Signals,1
+2019-04-01,B DIVISION,D,1,Track,1
+2019-04-01,B DIVISION,F,1,Signals,1
+2019-04-01,B DIVISION,F,1,Track,1
+2019-04-01,B DIVISION,JZ,1,Other,1
+2019-04-01,B DIVISION,L,1,Persons on Trackbed/Police/Medical,2
+2019-04-01,B DIVISION,M,1,Signals,1
+2019-04-01,B DIVISION,M,1,Stations and Structure,1
+2019-04-01,B DIVISION,M,1,Subway Car,1
+2019-04-01,B DIVISION,N,1,Signals,2
+2019-04-01,B DIVISION,N,1,Track,1
+2019-04-01,B DIVISION,Q,1,Other,1
+2019-04-01,B DIVISION,Q,1,Signals,2
+2019-04-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,2
+2019-04-01,B DIVISION,R,1,Signals,1
+2019-04-01,Systemwide,Systemwide,1,Other,4
+2019-04-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,15
+2019-04-01,Systemwide,Systemwide,1,Signals,17
+2019-04-01,Systemwide,Systemwide,1,Stations and Structure,1
+2019-04-01,Systemwide,Systemwide,1,Subway Car,3
+2019-04-01,Systemwide,Systemwide,1,Track,12
+2019-04-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2019-04-01,Systemwide,Systemwide,2,Signals,1
+2019-05-01,A DIVISION,1,1,Other,1
+2019-05-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2019-05-01,A DIVISION,2,1,Signals,1
+2019-05-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,1
+2019-05-01,A DIVISION,4,1,Subway Car,1
+2019-05-01,A DIVISION,4,2,Persons on Trackbed/Police/Medical,1
+2019-05-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,3
+2019-05-01,A DIVISION,5,1,Signals,4
+2019-05-01,A DIVISION,5,1,Track,1
+2019-05-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,2
+2019-05-01,A DIVISION,6,1,Signals,2
+2019-05-01,A DIVISION,6,1,Subway Car,1
+2019-05-01,A DIVISION,7,1,Signals,2
+2019-05-01,A DIVISION,7,1,Subway Car,1
+2019-05-01,B DIVISION,A,1,Other,1
+2019-05-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2019-05-01,B DIVISION,A,1,Signals,1
+2019-05-01,B DIVISION,A,1,Subway Car,1
+2019-05-01,B DIVISION,B,1,Persons on Trackbed/Police/Medical,1
+2019-05-01,B DIVISION,C,1,Subway Car,1
+2019-05-01,B DIVISION,D,1,Signals,2
+2019-05-01,B DIVISION,E,1,Signals,2
+2019-05-01,B DIVISION,E,1,Stations and Structure,1
+2019-05-01,B DIVISION,F,1,Other,1
+2019-05-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2019-05-01,B DIVISION,F,1,Signals,1
+2019-05-01,B DIVISION,JZ,1,Other,1
+2019-05-01,B DIVISION,L,1,Track,1
+2019-05-01,B DIVISION,M,1,Persons on Trackbed/Police/Medical,1
+2019-05-01,B DIVISION,M,2,Other,1
+2019-05-01,B DIVISION,N,1,Other,1
+2019-05-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,2
+2019-05-01,B DIVISION,N,1,Signals,1
+2019-05-01,B DIVISION,Q,1,Other,1
+2019-05-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,1
+2019-05-01,B DIVISION,Q,2,Subway Car,1
+2019-05-01,B DIVISION,R,1,Other,1
+2019-05-01,B DIVISION,R,1,Subway Car,2
+2019-05-01,B DIVISION,R,2,Persons on Trackbed/Police/Medical,1
+2019-05-01,B DIVISION,S Rock,1,Signals,1
+2019-05-01,Systemwide,Systemwide,1,Other,7
+2019-05-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,14
+2019-05-01,Systemwide,Systemwide,1,Signals,17
+2019-05-01,Systemwide,Systemwide,1,Stations and Structure,1
+2019-05-01,Systemwide,Systemwide,1,Subway Car,7
+2019-05-01,Systemwide,Systemwide,1,Track,2
+2019-05-01,Systemwide,Systemwide,2,Other,1
+2019-05-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,2
+2019-05-01,Systemwide,Systemwide,2,Subway Car,1
+2019-06-01,A DIVISION,1,1,Track,1
+2019-06-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,2
+2019-06-01,A DIVISION,2,1,Subway Car,1
+2019-06-01,A DIVISION,4,1,Signals,1
+2019-06-01,A DIVISION,4,1,Track,2
+2019-06-01,A DIVISION,5,1,Signals,3
+2019-06-01,A DIVISION,5,1,Subway Car,1
+2019-06-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,2
+2019-06-01,A DIVISION,6,2,Other,1
+2019-06-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,2
+2019-06-01,A DIVISION,7,1,Subway Car,1
+2019-06-01,A DIVISION,7,1,Track,1
+2019-06-01,B DIVISION,A,1,Signals,2
+2019-06-01,B DIVISION,A,1,Track,1
+2019-06-01,B DIVISION,A,2,Signals,1
+2019-06-01,B DIVISION,B,1,Signals,1
+2019-06-01,B DIVISION,C,1,Subway Car,1
+2019-06-01,B DIVISION,D,2,Other,1
+2019-06-01,B DIVISION,E,1,Signals,1
+2019-06-01,B DIVISION,E,1,Track,4
+2019-06-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2019-06-01,B DIVISION,F,1,Signals,1
+2019-06-01,B DIVISION,F,1,Track,1
+2019-06-01,B DIVISION,JZ,1,Other,3
+2019-06-01,B DIVISION,L,1,Persons on Trackbed/Police/Medical,1
+2019-06-01,B DIVISION,M,1,Signals,1
+2019-06-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2019-06-01,B DIVISION,N,1,Signals,1
+2019-06-01,B DIVISION,N,1,Track,1
+2019-06-01,B DIVISION,Q,1,Signals,1
+2019-06-01,B DIVISION,Q,1,Subway Car,1
+2019-06-01,B DIVISION,R,1,Signals,3
+2019-06-01,B DIVISION,R,1,Subway Car,1
+2019-06-01,Systemwide,Systemwide,1,Other,3
+2019-06-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,9
+2019-06-01,Systemwide,Systemwide,1,Signals,15
+2019-06-01,Systemwide,Systemwide,1,Subway Car,6
+2019-06-01,Systemwide,Systemwide,1,Track,11
+2019-06-01,Systemwide,Systemwide,2,Other,3
+2019-06-01,Systemwide,Systemwide,2,Signals,1
+2019-07-01,A DIVISION,1,1,Other,1
+2019-07-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2019-07-01,A DIVISION,1,1,Signals,1
+2019-07-01,A DIVISION,2,1,Other,2
+2019-07-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2019-07-01,A DIVISION,2,1,Signals,3
+2019-07-01,A DIVISION,2,1,Subway Car,1
+2019-07-01,A DIVISION,2,1,Track,1
+2019-07-01,A DIVISION,2,2,Other,2
+2019-07-01,A DIVISION,4,1,Signals,3
+2019-07-01,A DIVISION,4,1,Subway Car,1
+2019-07-01,A DIVISION,5,1,Other,1
+2019-07-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2019-07-01,A DIVISION,5,1,Signals,2
+2019-07-01,A DIVISION,5,1,Track,1
+2019-07-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,2
+2019-07-01,A DIVISION,6,2,Other,1
+2019-07-01,A DIVISION,7,1,Signals,1
+2019-07-01,A DIVISION,7,1,Subway Car,3
+2019-07-01,A DIVISION,7,2,Other,1
+2019-07-01,B DIVISION,A,1,Other,1
+2019-07-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2019-07-01,B DIVISION,B,1,Other,1
+2019-07-01,B DIVISION,B,1,Signals,2
+2019-07-01,B DIVISION,C,1,Subway Car,1
+2019-07-01,B DIVISION,C,1,Track,1
+2019-07-01,B DIVISION,D,1,Track,1
+2019-07-01,B DIVISION,D,2,Other,1
+2019-07-01,B DIVISION,E,1,Signals,3
+2019-07-01,B DIVISION,F,1,Other,1
+2019-07-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,2
+2019-07-01,B DIVISION,F,1,Signals,1
+2019-07-01,B DIVISION,F,1,Subway Car,1
+2019-07-01,B DIVISION,F,1,Track,1
+2019-07-01,B DIVISION,F,2,Other,1
+2019-07-01,B DIVISION,M,1,Other,1
+2019-07-01,B DIVISION,M,1,Stations and Structure,1
+2019-07-01,B DIVISION,M,2,Track,1
+2019-07-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2019-07-01,B DIVISION,Q,1,Persons on Trackbed/Police/Medical,1
+2019-07-01,B DIVISION,Q,1,Signals,1
+2019-07-01,B DIVISION,Q,1,Subway Car,1
+2019-07-01,B DIVISION,Q,1,Track,1
+2019-07-01,B DIVISION,Q,2,Signals,1
+2019-07-01,B DIVISION,R,1,Other,2
+2019-07-01,B DIVISION,R,1,Signals,1
+2019-07-01,B DIVISION,R,2,Stations and Structure,1
+2019-07-01,B DIVISION,S Rock,2,Other,1
+2019-07-01,Systemwide,Systemwide,1,Other,10
+2019-07-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,10
+2019-07-01,Systemwide,Systemwide,1,Signals,18
+2019-07-01,Systemwide,Systemwide,1,Stations and Structure,1
+2019-07-01,Systemwide,Systemwide,1,Subway Car,8
+2019-07-01,Systemwide,Systemwide,1,Track,6
+2019-07-01,Systemwide,Systemwide,2,Other,8
+2019-07-01,Systemwide,Systemwide,2,Signals,1
+2019-07-01,Systemwide,Systemwide,2,Stations and Structure,1
+2019-07-01,Systemwide,Systemwide,2,Track,1
+2019-08-01,A DIVISION,1,1,Signals,1
+2019-08-01,A DIVISION,2,1,Other,1
+2019-08-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,2
+2019-08-01,A DIVISION,2,1,Track,1
+2019-08-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,1
+2019-08-01,A DIVISION,3,1,Signals,1
+2019-08-01,A DIVISION,4,1,Other,1
+2019-08-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2019-08-01,A DIVISION,4,2,Persons on Trackbed/Police/Medical,1
+2019-08-01,A DIVISION,5,1,Other,1
+2019-08-01,A DIVISION,5,1,Signals,1
+2019-08-01,A DIVISION,5,1,Subway Car,1
+2019-08-01,A DIVISION,6,1,Signals,1
+2019-08-01,A DIVISION,6,1,Track,3
+2019-08-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,1
+2019-08-01,A DIVISION,7,1,Signals,1
+2019-08-01,A DIVISION,7,1,Stations and Structure,1
+2019-08-01,A DIVISION,7,1,Track,2
+2019-08-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,1
+2019-08-01,B DIVISION,B,1,Track,1
+2019-08-01,B DIVISION,C,1,Track,1
+2019-08-01,B DIVISION,E,1,Signals,1
+2019-08-01,B DIVISION,E,1,Track,1
+2019-08-01,B DIVISION,F,1,Persons on Trackbed/Police/Medical,1
+2019-08-01,B DIVISION,F,1,Track,1
+2019-08-01,B DIVISION,F,2,Track,1
+2019-08-01,B DIVISION,JZ,1,Other,1
+2019-08-01,B DIVISION,L,1,Persons on Trackbed/Police/Medical,1
+2019-08-01,B DIVISION,L,1,Signals,1
+2019-08-01,B DIVISION,L,1,Stations and Structure,1
+2019-08-01,B DIVISION,N,1,Subway Car,1
+2019-08-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,1
+2019-08-01,B DIVISION,R,1,Signals,3
+2019-08-01,B DIVISION,S Fkln,2,Signals,1
+2019-08-01,Systemwide,Systemwide,1,Other,4
+2019-08-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,10
+2019-08-01,Systemwide,Systemwide,1,Signals,10
+2019-08-01,Systemwide,Systemwide,1,Stations and Structure,2
+2019-08-01,Systemwide,Systemwide,1,Subway Car,2
+2019-08-01,Systemwide,Systemwide,1,Track,10
+2019-08-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2019-08-01,Systemwide,Systemwide,2,Signals,1
+2019-08-01,Systemwide,Systemwide,2,Track,1
+2019-09-01,A DIVISION,1,1,Persons on Trackbed/Police/Medical,1
+2019-09-01,A DIVISION,2,1,Other,1
+2019-09-01,A DIVISION,3,1,Signals,1
+2019-09-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2019-09-01,A DIVISION,4,1,Signals,1
+2019-09-01,A DIVISION,4,2,Other,1
+2019-09-01,A DIVISION,5,1,Other,1
+2019-09-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2019-09-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,2
+2019-09-01,A DIVISION,6,1,Signals,2
+2019-09-01,A DIVISION,6,1,Subway Car,2
+2019-09-01,A DIVISION,6,1,Track,1
+2019-09-01,A DIVISION,6,2,Persons on Trackbed/Police/Medical,1
+2019-09-01,B DIVISION,A,1,Persons on Trackbed/Police/Medical,2
+2019-09-01,B DIVISION,A,1,Signals,2
+2019-09-01,B DIVISION,C,1,Signals,1
+2019-09-01,B DIVISION,C,2,Subway Car,1
+2019-09-01,B DIVISION,D,1,Persons on Trackbed/Police/Medical,1
+2019-09-01,B DIVISION,D,1,Subway Car,1
+2019-09-01,B DIVISION,E,1,Signals,1
+2019-09-01,B DIVISION,E,2,Signals,1
+2019-09-01,B DIVISION,F,1,Signals,1
+2019-09-01,B DIVISION,L,1,Stations and Structure,3
+2019-09-01,B DIVISION,M,1,Signals,1
+2019-09-01,B DIVISION,N,1,Persons on Trackbed/Police/Medical,1
+2019-09-01,B DIVISION,Q,1,Signals,1
+2019-09-01,B DIVISION,R,1,Other,1
+2019-09-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,1
+2019-09-01,Systemwide,Systemwide,1,Other,3
+2019-09-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,11
+2019-09-01,Systemwide,Systemwide,1,Signals,11
+2019-09-01,Systemwide,Systemwide,1,Stations and Structure,3
+2019-09-01,Systemwide,Systemwide,1,Subway Car,3
+2019-09-01,Systemwide,Systemwide,1,Track,1
+2019-09-01,Systemwide,Systemwide,2,Other,1
+2019-09-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2019-09-01,Systemwide,Systemwide,2,Signals,1
+2019-09-01,Systemwide,Systemwide,2,Subway Car,1
+2019-10-01,A DIVISION,1,1,Signals,1
+2019-10-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2019-10-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,1
+2019-10-01,A DIVISION,4,1,Signals,3
+2019-10-01,A DIVISION,4,1,Subway Car,1
+2019-10-01,A DIVISION,5,1,Persons on Trackbed/Police/Medical,1
+2019-10-01,A DIVISION,5,1,Signals,1
+2019-10-01,A DIVISION,5,1,Track,1
+2019-10-01,A DIVISION,6,1,Signals,2
+2019-10-01,A DIVISION,6,1,Subway Car,1
+2019-10-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,1
+2019-10-01,A DIVISION,7,1,Signals,4
+2019-10-01,A DIVISION,7,1,Stations and Structure,1
+2019-10-01,A DIVISION,7,1,Track,2
+2019-10-01,B DIVISION,A,1,Signals,2
+2019-10-01,B DIVISION,B,1,Other,2
+2019-10-01,B DIVISION,B,1,Subway Car,1
+2019-10-01,B DIVISION,C,1,Other,1
+2019-10-01,B DIVISION,C,1,Persons on Trackbed/Police/Medical,1
+2019-10-01,B DIVISION,C,1,Subway Car,1
+2019-10-01,B DIVISION,D,1,Signals,1
+2019-10-01,B DIVISION,F,1,Signals,2
+2019-10-01,B DIVISION,F,1,Stations and Structure,1
+2019-10-01,B DIVISION,F,1,Track,1
+2019-10-01,B DIVISION,JZ,1,Persons on Trackbed/Police/Medical,1
+2019-10-01,B DIVISION,M,1,Track,2
+2019-10-01,B DIVISION,M,2,Persons on Trackbed/Police/Medical,1
+2019-10-01,B DIVISION,N,1,Stations and Structure,1
+2019-10-01,B DIVISION,N,1,Track,2
+2019-10-01,B DIVISION,Q,1,Stations and Structure,1
+2019-10-01,Systemwide,Systemwide,1,Other,3
+2019-10-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,6
+2019-10-01,Systemwide,Systemwide,1,Signals,16
+2019-10-01,Systemwide,Systemwide,1,Stations and Structure,4
+2019-10-01,Systemwide,Systemwide,1,Subway Car,4
+2019-10-01,Systemwide,Systemwide,1,Track,8
+2019-10-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2019-11-01,A DIVISION,1,1,Signals,3
+2019-11-01,A DIVISION,1,2,Persons on Trackbed/Police/Medical,1
+2019-11-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,1
+2019-11-01,A DIVISION,2,2,Other,1
+2019-11-01,A DIVISION,2,2,Persons on Trackbed/Police/Medical,1
+2019-11-01,A DIVISION,3,1,Persons on Trackbed/Police/Medical,1
+2019-11-01,A DIVISION,3,2,Persons on Trackbed/Police/Medical,1
+2019-11-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,2
+2019-11-01,A DIVISION,4,1,Signals,2
+2019-11-01,A DIVISION,5,2,Signals,1
+2019-11-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,2
+2019-11-01,A DIVISION,6,1,Signals,2
+2019-11-01,A DIVISION,6,1,Track,1
+2019-11-01,A DIVISION,S 42nd,1,Other,1
+2019-11-01,B DIVISION,A,1,Signals,1
+2019-11-01,B DIVISION,A,1,Track,1
+2019-11-01,B DIVISION,B,1,Signals,2
+2019-11-01,B DIVISION,B,1,Track,1
+2019-11-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,1
+2019-11-01,B DIVISION,E,1,Signals,3
+2019-11-01,B DIVISION,M,1,Subway Car,1
+2019-11-01,B DIVISION,M,1,Track,1
+2019-11-01,B DIVISION,N,1,Signals,1
+2019-11-01,B DIVISION,Q,1,Signals,1
+2019-11-01,B DIVISION,Q,1,Track,1
+2019-11-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,2
+2019-11-01,B DIVISION,R,1,Signals,1
+2019-11-01,Systemwide,Systemwide,1,Other,1
+2019-11-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,9
+2019-11-01,Systemwide,Systemwide,1,Signals,16
+2019-11-01,Systemwide,Systemwide,1,Subway Car,1
+2019-11-01,Systemwide,Systemwide,1,Track,5
+2019-11-01,Systemwide,Systemwide,2,Other,1
+2019-11-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,3
+2019-11-01,Systemwide,Systemwide,2,Signals,1
+2019-12-01,A DIVISION,1,1,Other,1
+2019-12-01,A DIVISION,1,2,Persons on Trackbed/Police/Medical,1
+2019-12-01,A DIVISION,2,1,Persons on Trackbed/Police/Medical,2
+2019-12-01,A DIVISION,2,1,Signals,1
+2019-12-01,A DIVISION,2,1,Track,3
+2019-12-01,A DIVISION,3,1,Track,1
+2019-12-01,A DIVISION,4,1,Persons on Trackbed/Police/Medical,1
+2019-12-01,A DIVISION,4,1,Stations and Structure,1
+2019-12-01,A DIVISION,5,1,Signals,1
+2019-12-01,A DIVISION,6,1,Persons on Trackbed/Police/Medical,1
+2019-12-01,A DIVISION,6,1,Signals,1
+2019-12-01,A DIVISION,7,1,Persons on Trackbed/Police/Medical,1
+2019-12-01,A DIVISION,7,1,Signals,4
+2019-12-01,A DIVISION,7,1,Track,1
+2019-12-01,B DIVISION,A,1,Subway Car,1
+2019-12-01,B DIVISION,D,1,Other,1
+2019-12-01,B DIVISION,D,1,Subway Car,1
+2019-12-01,B DIVISION,D,1,Track,1
+2019-12-01,B DIVISION,D,2,Other,1
+2019-12-01,B DIVISION,E,1,Persons on Trackbed/Police/Medical,2
+2019-12-01,B DIVISION,E,1,Signals,2
+2019-12-01,B DIVISION,F,1,Signals,3
+2019-12-01,B DIVISION,F,1,Subway Car,1
+2019-12-01,B DIVISION,JZ,1,Other,4
+2019-12-01,B DIVISION,M,1,Other,2
+2019-12-01,B DIVISION,M,1,Persons on Trackbed/Police/Medical,2
+2019-12-01,B DIVISION,M,1,Stations and Structure,1
+2019-12-01,B DIVISION,N,1,Track,2
+2019-12-01,B DIVISION,Q,1,Other,2
+2019-12-01,B DIVISION,Q,1,Signals,1
+2019-12-01,B DIVISION,Q,2,Other,1
+2019-12-01,B DIVISION,Q,2,Signals,1
+2019-12-01,B DIVISION,R,1,Persons on Trackbed/Police/Medical,1
+2019-12-01,B DIVISION,R,1,Signals,1
+2019-12-01,B DIVISION,R,1,Track,1
+2019-12-01,Systemwide,Systemwide,1,Other,10
+2019-12-01,Systemwide,Systemwide,1,Persons on Trackbed/Police/Medical,10
+2019-12-01,Systemwide,Systemwide,1,Signals,14
+2019-12-01,Systemwide,Systemwide,1,Stations and Structure,2
+2019-12-01,Systemwide,Systemwide,1,Subway Car,3
+2019-12-01,Systemwide,Systemwide,1,Track,9
+2019-12-01,Systemwide,Systemwide,2,Other,2
+2019-12-01,Systemwide,Systemwide,2,Persons on Trackbed/Police/Medical,1
+2019-12-01,Systemwide,Systemwide,2,Signals,1
